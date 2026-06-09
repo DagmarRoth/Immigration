@@ -20,6 +20,10 @@
           "from": "02/10/2025",
           "to": "01/08/2025"
         },
+        "decision_date_iso": {
+          "from": null,
+          "to": "2025-01-08"
+        },
         "reference_number": {
           "from": "1624b",
           "to": "1626a"
@@ -62,6 +66,10 @@
         "decision_date": {
           "from": "07/09/2025",
           "to": "07/08/2025"
+        },
+        "decision_date_iso": {
+          "from": null,
+          "to": "2025-07-08"
         },
         "reference_number": {
           "from": "1523e",
