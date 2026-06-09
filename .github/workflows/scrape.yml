@@ -46,6 +46,8 @@ jobs:
         run: |
           jupyter nbconvert --to script eoir_decisions_scraper.ipynb \
             --output eoir_decisions_scraper --output-dir .
+          # nbconvert outputs .txt when notebook lacks kernel language metadata
+          [ -f eoir_decisions_scraper.txt ] && mv eoir_decisions_scraper.txt eoir_decisions_scraper.py
           ls -la eoir_decisions_scraper.py
 
       - name: Run scraper
