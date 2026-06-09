@@ -1,0 +1,3973 @@
+{
+  "date": "2026-06-09",
+  "additions": [
+    {
+      "decision_id": 4203,
+      "case_name": "S-E-M-Z-",
+      "citation": "29 I&N Dec 680 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1444566/dl?inline"
+    },
+    {
+      "decision_id": 4202,
+      "case_name": "J-O-A-",
+      "citation": "29 I&N Dec 672 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1444231/dl?inline"
+    },
+    {
+      "decision_id": 4201,
+      "case_name": "MILLS",
+      "citation": "29 I&N Dec 668 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1443916/dl?inline"
+    },
+    {
+      "decision_id": 4200,
+      "case_name": "N-A-G-C-",
+      "citation": "29 I&N Dec 662 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1443566/dl?inline"
+    },
+    {
+      "decision_id": 4199,
+      "case_name": "RICHARDS",
+      "citation": "29 I&N Dec 658 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1442711/dl?inline"
+    },
+    {
+      "decision_id": 4198,
+      "case_name": "MARTINEZ-RODRIGUEZ",
+      "citation": "29 I&N Dec. 656 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1442701/dl?inline"
+    },
+    {
+      "decision_id": 4197,
+      "case_name": "NWAGWU",
+      "citation": "29 I&N Dec. 651 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1442531/dl?inline"
+    },
+    {
+      "decision_id": 4196,
+      "case_name": "GERMAIN",
+      "citation": "29 I&N Dec. 648 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1442486/dl?inline"
+    },
+    {
+      "decision_id": 4195,
+      "case_name": "A-H-D-",
+      "citation": "29 I&N Dec. 642 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1442386/dl?inline"
+    },
+    {
+      "decision_id": 4194,
+      "case_name": "L-A-D-",
+      "citation": "29 I&N Dec. 634 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1442186/dl?inline"
+    },
+    {
+      "decision_id": 4193,
+      "case_name": "I-B-M-S-",
+      "citation": "29 I&N Dec. 628 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1441211/dl?inline"
+    },
+    {
+      "decision_id": 4192,
+      "case_name": "V-A-B-",
+      "citation": "29 I&N Dec 621 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1439986/dl?inline"
+    },
+    {
+      "decision_id": 4191,
+      "case_name": "C-P-Y-",
+      "citation": "29 I&N Dec. 610 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1439601/dl?inline"
+    },
+    {
+      "decision_id": 4190,
+      "case_name": "J-E-L-",
+      "citation": "29 I&N Dec. 605 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1439331/dl?inline"
+    },
+    {
+      "decision_id": 4189,
+      "case_name": "OROZCO BECERRA & OROZCO BECERRA",
+      "citation": "29 I&N Dec. 600 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1438621/dl?inline"
+    },
+    {
+      "decision_id": 4188,
+      "case_name": "SHENTU",
+      "citation": "29 I&N Dec. 595 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1438116/dl?inline"
+    },
+    {
+      "decision_id": 4187,
+      "case_name": "ARANA CASTILLO, et al",
+      "citation": "29 I&N Dec. 593 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1437856/dl?inline"
+    },
+    {
+      "decision_id": 4186,
+      "case_name": "SANTIAGO-SANTIAGO",
+      "citation": "29 I&N Dec. 589 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1437801/dl?inline"
+    },
+    {
+      "decision_id": 4185,
+      "case_name": "E-N-N-",
+      "citation": "29 I&N Dec. 586 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1437311/dl?inline"
+    },
+    {
+      "decision_id": 4184,
+      "case_name": "R-A-U-",
+      "citation": "29 I&N Dec. 582 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1437046/dl?inline"
+    },
+    {
+      "decision_id": 4183,
+      "case_name": "D-G-E-A- & N-G-G-E-",
+      "citation": "29 I&N Dec. 570 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1436936/dl?inline"
+    },
+    {
+      "decision_id": 4182,
+      "case_name": "M-K-",
+      "citation": "29 I&N Dec. 556 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1436196/dl?inline"
+    },
+    {
+      "decision_id": 4181,
+      "case_name": "A-M-Z-F-",
+      "citation": "29 I&N Dec. 551 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1436011/dl?inline"
+    },
+    {
+      "decision_id": 4180,
+      "case_name": "BOLIVAR-BOLIVAR",
+      "citation": "29 I&N Dec. 548 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1435616/dl?inline"
+    },
+    {
+      "decision_id": 4179,
+      "case_name": "PELAGIO MENDOZA",
+      "citation": "29 I&N Dec. 542 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1434771/dl?inline"
+    },
+    {
+      "decision_id": 4178,
+      "case_name": "VALENZUELA GALLARDO",
+      "citation": "29 I&N Dec. 536 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1434026/dl?inline"
+    },
+    {
+      "decision_id": 4177,
+      "case_name": "Lopez-Orellana",
+      "citation": "29 I&N Dec. 533 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1432911/dl?inline"
+    },
+    {
+      "decision_id": 4176,
+      "case_name": "MERCADO-MARTINEZ",
+      "citation": "29 I&N Dec. 529 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1432826/dl?inline"
+    },
+    {
+      "decision_id": 4175,
+      "case_name": "Z-R-C-N-",
+      "citation": "29 I&N Dec. 523 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1431711/dl?inline"
+    },
+    {
+      "decision_id": 4174,
+      "case_name": "AREVALO-VARGAS",
+      "citation": "29 I&N Dec. 519 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1431246/dl?inline"
+    },
+    {
+      "decision_id": 4173,
+      "case_name": "MEDINA MADRID",
+      "citation": "29 I&N Dec. 514 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1431066/dl?inline"
+    },
+    {
+      "decision_id": 4172,
+      "case_name": "Z-N-L-",
+      "citation": "29 I&N Dec. 511 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1430911/dl?inline"
+    },
+    {
+      "decision_id": 4171,
+      "case_name": "PINZON ROZO",
+      "citation": "29 I&N Dec. 507 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1430766/dl?inline"
+    },
+    {
+      "decision_id": 4170,
+      "case_name": "R-B-E-",
+      "citation": "29 I&N Dec. 499 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1430191/dl?inline"
+    },
+    {
+      "decision_id": 4169,
+      "case_name": "TEXPERTS, INC",
+      "citation": "29 I&N Dec. 491 (AAO 2026)",
+      "url": "https://www.justice.gov/eoir/media/1430151/dl?inline"
+    },
+    {
+      "decision_id": 4168,
+      "case_name": "D-J-L-",
+      "citation": "29 I&N Dec. 485 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1430046/dl?inline"
+    },
+    {
+      "decision_id": 4167,
+      "case_name": "Ibarra-Vega",
+      "citation": "29 I&N Dec. 476 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1429421/dl?inline"
+    },
+    {
+      "decision_id": 4166,
+      "case_name": "FORJOE",
+      "citation": "29 I&N Dec. 463 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1429116/dl?inline"
+    },
+    {
+      "decision_id": 4165,
+      "case_name": "F-B-A-",
+      "citation": "29 I&N Dec. 456 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1428266/dl?inline"
+    },
+    {
+      "decision_id": 4164,
+      "case_name": "L-S-C-R-",
+      "citation": "29 I&N Dec. 451 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1428161/dl?inline"
+    },
+    {
+      "decision_id": 4163,
+      "case_name": "JIN",
+      "citation": "29 I&N Dec. 441 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1427631/dl?inline"
+    },
+    {
+      "decision_id": 4162,
+      "case_name": "YADAV",
+      "citation": "29 I&N Dec. 438 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1426906/dl?inline"
+    },
+    {
+      "decision_id": 4161,
+      "case_name": "G-M-I-",
+      "citation": "29 I&N Dec. 431 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1426556/dl?inline"
+    },
+    {
+      "decision_id": 4160,
+      "case_name": "E-A-S-O-",
+      "citation": "29 I&N Dec. 422 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1426071/dl?inline"
+    },
+    {
+      "decision_id": 4159,
+      "case_name": "LAURENT CASTRO",
+      "citation": "29 I&N Dec. 419 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1425671/dl?inline"
+    },
+    {
+      "decision_id": 4158,
+      "case_name": "S-M-H-",
+      "citation": "29 I&N Dec. 412 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1425081/dl?inline"
+    },
+    {
+      "decision_id": 4157,
+      "case_name": "M-C-C-",
+      "citation": "29 I&N Dec. 401 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1424031/dl?inline"
+    },
+    {
+      "decision_id": 4156,
+      "case_name": "D-G-B-L-",
+      "citation": "29 I&N Dec. 392 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1423546/dl?inline"
+    },
+    {
+      "decision_id": 4155,
+      "case_name": "LAPARRA-DELEON",
+      "citation": "29 I&N Dec. 389 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1423351/dl?inline"
+    },
+    {
+      "decision_id": 4154,
+      "case_name": "E-M-F-S-",
+      "citation": "29 I&N Dec. 379 (BIA 2026)",
+      "url": "https://www.justice.gov/eoir/media/1422766/dl?inline"
+    },
+    {
+      "decision_id": 4153,
+      "case_name": "GHANBARI",
+      "citation": "29 I&N Dec. 376 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1421901/dl?inline"
+    },
+    {
+      "decision_id": 4152,
+      "case_name": "Tepec-Garcia",
+      "citation": "29 I&N Dec. 371 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1421526/dl?inline"
+    },
+    {
+      "decision_id": 4151,
+      "case_name": "L-T-A-",
+      "citation": "29 I&N Dec. 362 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1421286/dl?inline"
+    },
+    {
+      "decision_id": 4150,
+      "case_name": "RODRIGUEZ PENA",
+      "citation": "29 I&N Dec. 358 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1421106/dl?inline"
+    },
+    {
+      "decision_id": 4149,
+      "case_name": "PALMA-OLVERA",
+      "citation": "29 I&N Dec. 355 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1421101/dl?inline"
+    },
+    {
+      "decision_id": 4148,
+      "case_name": "LEMA MIZHIRUMBAY",
+      "citation": "29 I&N Dec. 351 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1420986/dl?inline"
+    },
+    {
+      "decision_id": 4147,
+      "case_name": "N-P-A-",
+      "citation": "29 I&N Dec. 347 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1420981/dl?inline"
+    },
+    {
+      "decision_id": 4146,
+      "case_name": "L-A-G-B-",
+      "citation": "29 I&N Dec. 343 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1420856/dl?inline"
+    },
+    {
+      "decision_id": 4145,
+      "case_name": "KIM",
+      "citation": "29 I&N Dec. 339 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1420851/dl?inline"
+    },
+    {
+      "decision_id": 4144,
+      "case_name": "DUBON MIRANDA",
+      "citation": "29 I&N Dec. 335 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1420751/dl?inline"
+    },
+    {
+      "decision_id": 4143,
+      "case_name": "J-C-A-G-",
+      "citation": "29 I&N Dec. 331 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1420746/dl?inline"
+    },
+    {
+      "decision_id": 4142,
+      "case_name": "Jimenez-Ayala",
+      "citation": "29 I&N Dec. 325 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1420671/dl?inline"
+    },
+    {
+      "decision_id": 4141,
+      "case_name": "W-F-",
+      "citation": "29 I&N Dec. 319 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1420631/dl?inline"
+    },
+    {
+      "decision_id": 4140,
+      "case_name": "B-S-H-",
+      "citation": "29 I&N Dec. 313 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1418881/dl?inline"
+    },
+    {
+      "decision_id": 4139,
+      "case_name": "K-S-H-",
+      "citation": "29 I&N Dec. 307 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1417811/dl?inline"
+    },
+    {
+      "decision_id": 4138,
+      "case_name": "CAHUEC TZALAM",
+      "citation": "29 I&N Dec. 300 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1417396/dl?inline"
+    },
+    {
+      "decision_id": 4137,
+      "case_name": "C-I-G-M- & L-V-S-G-",
+      "citation": "29 I&N Dec. 291 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1416811/dl?inline"
+    },
+    {
+      "decision_id": 4136,
+      "case_name": "J-A-N-M-",
+      "citation": "29 I&N Dec. 287 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1416591/dl?inline"
+    },
+    {
+      "decision_id": 4135,
+      "case_name": "NEGUSIE",
+      "citation": "29 I&N Dec. 285 (A.G. 2025)",
+      "url": "https://www.justice.gov/eoir/media/1416586/dl?inline"
+    },
+    {
+      "decision_id": 4134,
+      "case_name": "J-H-M-H-",
+      "citation": "29 I&N Dec. 278 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1415986/dl?inline"
+    },
+    {
+      "decision_id": 4133,
+      "case_name": "L-A-L-T-",
+      "citation": "29 I&N Dec. 269 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1415356/dl?inline"
+    },
+    {
+      "decision_id": 4132,
+      "case_name": "COTRUFO",
+      "citation": "29 I&N Dec. 264 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1415166/dl?inline"
+    },
+    {
+      "decision_id": 4131,
+      "case_name": "FRIAS ULLOA",
+      "citation": "29 I&N Dec. 259 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1415141/dl?inline"
+    },
+    {
+      "decision_id": 4130,
+      "case_name": "J-A-",
+      "citation": "29 I&N Dec. 253 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1415011/dl?inline"
+    },
+    {
+      "decision_id": 4129,
+      "case_name": "McDONALD",
+      "citation": "29 I&N Dec. 249 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1414981/dl?inline"
+    },
+    {
+      "decision_id": 4128,
+      "case_name": "LANDERS",
+      "citation": "29 I&N Dec. 240 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1414326/dl?inline"
+    },
+    {
+      "decision_id": 4127,
+      "case_name": "H-A-A-V-",
+      "citation": "29 I&N Dec. 233 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1413846/dl?inline"
+    },
+    {
+      "decision_id": 4126,
+      "case_name": "GARCIA-FLORES",
+      "citation": "29 I&N Dec. 230 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1413661/dl?inline"
+    },
+    {
+      "decision_id": 4125,
+      "case_name": "YAJURE HURTADO",
+      "citation": "29 I&N Dec. 216 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1413311/dl?inline"
+    },
+    {
+      "decision_id": 4124,
+      "case_name": "DOBROTVORSKII",
+      "citation": "29 I&N Dec. 211 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1413266/dl?inline"
+    },
+    {
+      "decision_id": 4123,
+      "case_name": "S-S-F-M-",
+      "citation": "29 I&N Dec. 207 (A.G. 2025)",
+      "url": "https://www.justice.gov/eoir/media/1412696/dl?inline"
+    },
+    {
+      "decision_id": 4122,
+      "case_name": "S-S-F-M-",
+      "citation": "29 I&N Dec. 206 (A.G. 2025)",
+      "url": "https://www.justice.gov/eoir/media/1412701/dl?inline"
+    },
+    {
+      "decision_id": 4121,
+      "case_name": "R-E-R-M- & J-D-R-M-",
+      "citation": "29 I&N Dec. 202 (A.G. 2025)",
+      "url": "https://www.justice.gov/eoir/media/1412686/dl?inline"
+    },
+    {
+      "decision_id": 4120,
+      "case_name": "R-E-R-M- & J-D-R-M-",
+      "citation": "29 I&N Dec. 201 (A.G. 2025)",
+      "url": "https://www.justice.gov/eoir/media/1412691/dl?inline"
+    },
+    {
+      "decision_id": 4119,
+      "case_name": "J-A-F-S-",
+      "citation": "29 I&N Dec. 195 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1412281/dl?inline"
+    },
+    {
+      "decision_id": 4118,
+      "case_name": "O-Y-A-E-",
+      "citation": "29 I&N Dec. 190 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1411806/dl?inline"
+    },
+    {
+      "decision_id": 4117,
+      "case_name": "BURI MORA",
+      "citation": "29 I&N Dec. 186 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1411661/dl?inline"
+    },
+    {
+      "decision_id": 4116,
+      "case_name": "G-C-I-",
+      "citation": "29 I&N Dec. 176 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1411476/dl?inline"
+    },
+    {
+      "decision_id": 4115,
+      "case_name": "SALAS PENA",
+      "citation": "29 I&N Dec. 173 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1411216/dl?inline"
+    },
+    {
+      "decision_id": 4114,
+      "case_name": "GARCIA MARTINEZ",
+      "citation": "29 I&N Dec. 169 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1410586/dl?inline"
+    },
+    {
+      "decision_id": 4113,
+      "case_name": "AKHMEDOV",
+      "citation": "29 I&N Dec. 166 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1410181/dl?inline"
+    },
+    {
+      "decision_id": 4112,
+      "case_name": "FELIX-FIGUEROA",
+      "citation": "29 I&N Dec. 157 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1409436/dl?inline"
+    },
+    {
+      "decision_id": 4111,
+      "case_name": "K-E-S-G-",
+      "citation": "29 I&N Dec. 145 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1408366/dl?inline"
+    },
+    {
+      "decision_id": 4110,
+      "case_name": "C-M-M-",
+      "citation": "29 I&N Dec. 141 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1407986/dl?inline"
+    },
+    {
+      "decision_id": 4109,
+      "case_name": "S-S-",
+      "citation": "29 I&N Dec. 136 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1407581/dl?inline"
+    },
+    {
+      "decision_id": 4108,
+      "case_name": "GONZALEZ JIMENEZ",
+      "citation": "29 I&N Dec. 129 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1407386/dl?inline"
+    },
+    {
+      "decision_id": 4107,
+      "case_name": "E-Z-",
+      "citation": "29 I&N Dec. 123 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1407026/dl?inline"
+    },
+    {
+      "decision_id": 4106,
+      "case_name": "A-A-F-V-",
+      "citation": "29 I&N Dec. 118 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1422536/dl?inline"
+    },
+    {
+      "decision_id": 4105,
+      "case_name": "C-I-R-H- & H-S-V-R-",
+      "citation": "29 I&N Dec. 114 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1404921/dl?inline"
+    },
+    {
+      "decision_id": 4104,
+      "case_name": "MAYORGA IPINA",
+      "citation": "29 I&N Dec. 110 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1404721/dl?inline"
+    },
+    {
+      "decision_id": 4103,
+      "case_name": "ROQUE-IZADA",
+      "citation": "29 I&N Dec. 106 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1404086/dl?inline"
+    },
+    {
+      "decision_id": 4102,
+      "case_name": "E-Y-F-G-",
+      "citation": "29 I&N Dec. 103 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1403191/dl?inline"
+    },
+    {
+      "decision_id": 4101,
+      "case_name": "B-N-K-",
+      "citation": "29 I&N Dec. 96 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1402756/dl?inline"
+    },
+    {
+      "decision_id": 4100,
+      "case_name": "LOPEZ-TICAS",
+      "citation": "29 I&N Dec. 90 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1402101/dl?inline"
+    },
+    {
+      "decision_id": 4099,
+      "case_name": "D-E-B-",
+      "citation": "29 I&N Dec. 83 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1401736/dl?inline"
+    },
+    {
+      "decision_id": 4098,
+      "case_name": "N-N-B-",
+      "citation": "29 I&N Dec. 79 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1401691/dl?inline"
+    },
+    {
+      "decision_id": 4097,
+      "case_name": "BELTRAND-RODRIGUEZ",
+      "citation": "29 I&N Dec. 76 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1401626/dl?inline"
+    },
+    {
+      "decision_id": 4096,
+      "case_name": "BAIN",
+      "citation": "29 I&N Dec. 72 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1401621/dl?inline"
+    },
+    {
+      "decision_id": 4095,
+      "case_name": "Q. LI",
+      "citation": "29 I&N Dec. 66 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1400431/dl?inline"
+    },
+    {
+      "decision_id": 4094,
+      "case_name": "M-S-I-",
+      "citation": "29 I&N Dec. 61 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1400351/dl?inline"
+    },
+    {
+      "decision_id": 4093,
+      "case_name": "F-B-G-M- & J-E-M-G-",
+      "citation": "29 I&N Dec. 52 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1400301/dl?inline"
+    },
+    {
+      "decision_id": 4092,
+      "case_name": "CHOC-TUT",
+      "citation": "29 I&N Dec. 48 (BIA 2025)",
+      "url": "https://www.justice.gov/d9/2025-05/4092.pdf"
+    },
+    {
+      "decision_id": 4091,
+      "case_name": "A-A-R-",
+      "citation": "29 I&N Dec. 38 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1397791/dl?inline"
+    },
+    {
+      "decision_id": 4090,
+      "case_name": "O-A-R-G-",
+      "citation": "29 I&N Dec. 30 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1396826/dl?inline"
+    },
+    {
+      "decision_id": 4089,
+      "case_name": "ISKANDARANI",
+      "citation": "29 I&N Dec. 26 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1395961/dl?inline"
+    },
+    {
+      "decision_id": 4088,
+      "case_name": "DOR",
+      "citation": "29 I&N Dec. 20 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1395581/dl?inline"
+    },
+    {
+      "decision_id": 4087,
+      "case_name": "C-A-R-R-",
+      "citation": "29 I&N Dec. 13 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1399376/dl?inline"
+    },
+    {
+      "decision_id": 4086,
+      "case_name": "DE JESUS PLATON",
+      "citation": "29 I&N Dec. 7 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1388011/dl?inline"
+    },
+    {
+      "decision_id": 4085,
+      "case_name": "BAEZA-GALINDO",
+      "citation": "29 I&N Dec. 1 (BIA 2025)",
+      "url": "https://www.justice.gov/eoir/media/1388206/dl?inline"
+    },
+    {
+      "decision_id": 4084,
+      "case_name": "ARCINIEGAS-PATINO",
+      "citation": "28 I&N Dec. 883 (BIA 2025)",
+      "url": "https://www.justice.gov/d9/2025-01/4084.pdf"
+    },
+    {
+      "decision_id": 4083,
+      "case_name": "DOMINGUEZ REYES",
+      "citation": "28 I&N Dec. 878 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-12/4083.pdf"
+    },
+    {
+      "decision_id": 4082,
+      "case_name": "LARIOS-GUTIERREZ DE PABLO",
+      "citation": "28 I&N Dec. 868 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-11/4082.pdf"
+    },
+    {
+      "decision_id": 4081,
+      "case_name": "Matter of KHAN",
+      "citation": "28 I&N Dec. 850 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-11/4081_0.pdf"
+    },
+    {
+      "decision_id": 4080,
+      "case_name": "Matter of THAKKER",
+      "citation": "28 I&N Dec. 843 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-09/4080.pdf"
+    },
+    {
+      "decision_id": 4079,
+      "case_name": "R-T-P-",
+      "citation": "28 I&N Dec. 828 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-09/4079.pdf"
+    },
+    {
+      "decision_id": 4078,
+      "case_name": "D. RODRIGUEZ",
+      "citation": "28 I&N Dec. 815 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-08/4078.pdf"
+    },
+    {
+      "decision_id": 4077,
+      "case_name": "H-C-R-C-",
+      "citation": "28 I&N Dec. 809 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-06/4077.pdf"
+    },
+    {
+      "decision_id": 4076,
+      "case_name": "M-N-I-",
+      "citation": "28 I&N Dec. 803 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-05/4076.pdf"
+    },
+    {
+      "decision_id": 4075,
+      "case_name": "FURTADO",
+      "citation": "28 I&N Dec. 794\u00a0(BIA 2024)",
+      "url": "https://www.justice.gov/eoir/media/1352416/dl?inline"
+    },
+    {
+      "decision_id": 4074,
+      "case_name": "F-C-S-",
+      "citation": "28 I&N Dec. 788 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-04/4074_amended_2.pdf"
+    },
+    {
+      "decision_id": 4073,
+      "case_name": "AZRAG",
+      "citation": "28 I&N Dec. 784 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-02/4073.pdf"
+    },
+    {
+      "decision_id": 4072,
+      "case_name": "BERNARDO",
+      "citation": "28 I&N Dec. 781 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-02/4072.pdf"
+    },
+    {
+      "decision_id": 4071,
+      "case_name": "Aguilar Hernandez",
+      "citation": "28 I&N Dec. 774 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-01/4071.pdf"
+    },
+    {
+      "decision_id": 4070,
+      "case_name": "PANIN",
+      "citation": "28 I&N Dec. 771 (BIA 2024)",
+      "url": "https://www.justice.gov/d9/2024-01/4070.pdf"
+    },
+    {
+      "decision_id": 4069,
+      "case_name": "H. N. Ferreira",
+      "citation": "28 I&N Dec. 765 (BIA 2023)",
+      "url": "https://www.justice.gov/d9/2023-12/4069_0.pdf"
+    },
+    {
+      "decision_id": 4068,
+      "case_name": "M-R-M-S-",
+      "citation": "28 I&N Dec.\u00a0757 (BIA 2023)",
+      "url": "https://www.justice.gov/d9/2023-12/4068.pdf"
+    },
+    {
+      "decision_id": 4067,
+      "case_name": "BRATHWAITE",
+      "citation": "28 I&N Dec. 751 (BIA 2023)",
+      "url": "https://www.justice.gov/d9/2023-10/4067.pdf"
+    },
+    {
+      "decision_id": 4066,
+      "case_name": "Cabrera-Fernandez",
+      "citation": "28 I&N Dec. 747 (BIA 2023)",
+      "url": "https://www.justice.gov/eoir/media/1320131/dl?inline"
+    },
+    {
+      "decision_id": 4065,
+      "case_name": "C-G-T-",
+      "citation": "28 I&N Dec. 740 (BIA 2023)",
+      "url": "https://www.justice.gov/media/1313551/dl?inline"
+    },
+    {
+      "decision_id": 4064,
+      "case_name": "J-G-R-",
+      "citation": "28 I&N Dec. 733 (BIA 2023)",
+      "url": "https://www.justice.gov/media/1310066/dl?inline"
+    },
+    {
+      "decision_id": 4063,
+      "case_name": "POUGATCHEV",
+      "citation": "28 I&N Dec. 719 (BIA 2023)",
+      "url": "https://www.justice.gov/media/1294871/dl?inline"
+    },
+    {
+      "decision_id": 4062,
+      "case_name": "MORALES-MORALES",
+      "citation": "28 I&N Dec 714 (BIA 2023)",
+      "url": "https://www.justice.gov/media/1291361/dl?inline"
+    },
+    {
+      "decision_id": 4061,
+      "case_name": "CANCINOS-MANCIO",
+      "citation": "28 I&N Dec. 708 (BIA 2023)",
+      "url": "https://www.justice.gov/media/1290111/dl?inline"
+    },
+    {
+      "decision_id": 4060,
+      "case_name": "GARCIA",
+      "citation": "28 I&N Dec. 693 (BIA 2023)",
+      "url": "https://www.justice.gov/media/1282641/dl?inline"
+    },
+    {
+      "decision_id": 4059,
+      "case_name": "DUARTE-GONZALEZ",
+      "citation": "28 I&N Dec. 688 (BIA 2023)",
+      "url": "https://www.justice.gov/media/1274266/dl?inline"
+    },
+    {
+      "decision_id": 4058,
+      "case_name": "J-L-L-",
+      "citation": "28 I&N Dec. 684 (BIA 2023)",
+      "url": "https://www.justice.gov/media/1274021/dl?inline"
+    },
+    {
+      "decision_id": 4057,
+      "case_name": "CHEN",
+      "citation": "28 I&N Dec. 676 (BIA 2023)",
+      "url": "https://www.justice.gov/media/1268026/dl?inline"
+    },
+    {
+      "decision_id": 4056,
+      "case_name": "MARISCAL-HERNANDEZ",
+      "citation": "28 I&N Dec. 666 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1264136/dl?inline"
+    },
+    {
+      "decision_id": 4055,
+      "case_name": "TRIANA",
+      "citation": "28 I&N Dec. 659 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1262476/dl?inline"
+    },
+    {
+      "decision_id": 4054,
+      "case_name": "K. GUPTA",
+      "citation": "28 I&N Dec. 653 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1261526/dl?inline"
+    },
+    {
+      "decision_id": 4053,
+      "case_name": "CORONADO ACEVEDO",
+      "citation": "28 I&N Dec. 648 (A.G. 2022)",
+      "url": "https://www.justice.gov/media/1260411/dl?inline"
+    },
+    {
+      "decision_id": 4052,
+      "case_name": "BADOR",
+      "citation": "28 I&N Dec. 638 (BIA 2022)",
+      "url": "https://www.justice.gov/d9/2024-02/4052_0.pdf"
+    },
+    {
+      "decision_id": 4051,
+      "case_name": "V-A-K-",
+      "citation": "28 I&N Dec. 630 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1237871/dl?inline"
+    },
+    {
+      "decision_id": 4050,
+      "case_name": "FERNANDES",
+      "citation": "28 I&N Dec. 605 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1236376/dl?inline"
+    },
+    {
+      "decision_id": 4049,
+      "case_name": "ORTEGA-QUEZADA",
+      "citation": "28 I&N Dec. 598 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1235491/dl?inline"
+    },
+    {
+      "decision_id": 4048,
+      "case_name": "E-F-N-",
+      "citation": "28 I&N Dec. 591 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1229451/dl?inline"
+    },
+    {
+      "decision_id": 4047,
+      "case_name": "NCHIFOR",
+      "citation": "28 I&N Dec. 585 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1228286/dl?inline"
+    },
+    {
+      "decision_id": 4046,
+      "case_name": "D-L-S-",
+      "citation": "28 I&N Dec. 568 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1226946/dl?inline"
+    },
+    {
+      "decision_id": 4045,
+      "case_name": "B-Z-R-",
+      "citation": "28 I&N Dec. 563 (A.G. 2022)",
+      "url": "https://www.justice.gov/media/1221931/dl?inline"
+    },
+    {
+      "decision_id": 4044,
+      "case_name": "GERMAN SANTOS",
+      "citation": "28 I&N Dec. 552 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1221561/dl?inline"
+    },
+    {
+      "decision_id": 4043,
+      "case_name": "DANG",
+      "citation": "28 I&N Dec. 541 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1220766/dl?inline"
+    },
+    {
+      "decision_id": 4042,
+      "case_name": "DINGUS",
+      "citation": "28 I&N Dec. 529 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1220101/dl?inline"
+    },
+    {
+      "decision_id": 4041,
+      "case_name": "S. WONG",
+      "citation": "28 I&N Dec. 518 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1215406/dl?inline"
+    },
+    {
+      "decision_id": 4040,
+      "case_name": "C. MORGAN",
+      "citation": "28 I&N Dec. 508 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1213346/dl?inline"
+    },
+    {
+      "decision_id": 4039,
+      "case_name": "M-M-A-",
+      "citation": "28 I&N Dec. 494 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1212206/dl?inline"
+    },
+    {
+      "decision_id": 4038,
+      "case_name": "T-C-A-",
+      "citation": "28 I&N Dec. 472 (BIA 2022)",
+      "url": "https://www.justice.gov/file/1468491/download"
+    },
+    {
+      "decision_id": 4037,
+      "case_name": "F-R-A-",
+      "citation": "28 I&N Dec. 460\u00a0 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1189536/dl?inline"
+    },
+    {
+      "decision_id": 4036,
+      "case_name": "KOAT",
+      "citation": "28 I&N Dec. 450\u00a0 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1187571/dl?inline"
+    },
+    {
+      "decision_id": 4035,
+      "case_name": "LAGUERRE",
+      "citation": "28 I&N Dec. 437 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1185906/dl?inline"
+    },
+    {
+      "decision_id": 4034,
+      "case_name": "LAPARRA",
+      "citation": "28 I&N Dec. 425 (BIA 2022)",
+      "url": "https://www.justice.gov/media/1185591/dl?inline"
+    },
+    {
+      "decision_id": 4033,
+      "case_name": "B-Z-R-",
+      "citation": "28 I&N Dec. 424 (A.G. 2021)",
+      "url": "https://www.justice.gov/media/1179521/dl?inline"
+    },
+    {
+      "decision_id": 4032,
+      "case_name": "A. VALENZUELA",
+      "citation": "28 I&N Dec. 418 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1176561/dl?inline"
+    },
+    {
+      "decision_id": 4031,
+      "case_name": "M-F-O-",
+      "citation": "28 I&N Dec. 408 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1174476/dl?inline"
+    },
+    {
+      "decision_id": 4030,
+      "case_name": "KAGUMBAS",
+      "citation": "28 I&N Dec. 400 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1171871/dl?inline"
+    },
+    {
+      "decision_id": 4029,
+      "case_name": "NEGUSIE",
+      "citation": "28 I&N Dec. 399 (A.G. 2021)",
+      "url": "https://www.justice.gov/media/1171436/dl?inline"
+    },
+    {
+      "decision_id": 4028,
+      "case_name": "ARAMBULA-BRAVO",
+      "citation": "28 I&N Dec. 388 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1168541/dl?inline"
+    },
+    {
+      "decision_id": 4027,
+      "case_name": "N-V-G-",
+      "citation": "28 I&N Dec. 380 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1167021/dl?inline"
+    },
+    {
+      "decision_id": 4026,
+      "case_name": "HERNANDEZ-ROMERO",
+      "citation": "28 I&N Dec. 374 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1159861/dl?inline"
+    },
+    {
+      "decision_id": 4025,
+      "case_name": "AGUILAR-BARAJAS",
+      "citation": "28 I&N Dec. 354 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1157241/dl?inline"
+    },
+    {
+      "decision_id": 4024,
+      "case_name": "A-C-A-A-",
+      "citation": "28 I&N Dec. 351 (A.G. 2021)",
+      "url": "https://www.justice.gov/media/1154001/dl?inline"
+    },
+    {
+      "decision_id": 4023,
+      "case_name": "O-R-E-",
+      "citation": "28 I&N Dec. 330 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1152411/dl?inline"
+    },
+    {
+      "decision_id": 4022,
+      "case_name": "CRUZ-VALDEZ",
+      "citation": "28 I&N Dec. 326 (A.G. 2021)",
+      "url": "https://www.justice.gov/media/1151826/dl?inline"
+    },
+    {
+      "decision_id": 4021,
+      "case_name": "S-L-H- & L-B-L-",
+      "citation": "28 I&N Dec. 318 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1149036/dl?inline"
+    },
+    {
+      "decision_id": 4020,
+      "case_name": "MORADEL",
+      "citation": "28 I&N Dec. 310\u00a0 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1147346/dl?inline"
+    },
+    {
+      "decision_id": 4019,
+      "case_name": "A-B-",
+      "citation": "28 I&N Dec. 307 (A.G. 2021)",
+      "url": "https://www.justice.gov/media/1146811/dl?inline"
+    },
+    {
+      "decision_id": 4018,
+      "case_name": "L-E-A-",
+      "citation": "28 I&N Dec. 304 (A.G. 2021)",
+      "url": "https://www.justice.gov/media/1146806/dl?inline"
+    },
+    {
+      "decision_id": 4017,
+      "case_name": "D-G-C-",
+      "citation": "28 I&N Dec. 297 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1144786/dl?inline"
+    },
+    {
+      "decision_id": 4016,
+      "case_name": "MENSAH",
+      "citation": "28 I&N Dec. 288 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1136776/dl?inline"
+    },
+    {
+      "decision_id": 4015,
+      "case_name": "A-S-M-",
+      "citation": "28 I&N Dec. 282 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1135601/dl?inline"
+    },
+    {
+      "decision_id": 4014,
+      "case_name": "VUCETIC",
+      "citation": "28 I&N Dec. 276 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1133181/dl?inline"
+    },
+    {
+      "decision_id": 4013,
+      "case_name": "AL SABSABI",
+      "citation": "28 I&N Dec. 269 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1132511/dl?inline"
+    },
+    {
+      "decision_id": 4012,
+      "case_name": "AGUILAR-MENDEZ",
+      "citation": "28 I&N Dec. 262 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1129246/dl?inline"
+    },
+    {
+      "decision_id": 4011,
+      "case_name": "NEMIS",
+      "citation": "28 I&N Dec. 250 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1128571/dl?inline"
+    },
+    {
+      "decision_id": 4010,
+      "case_name": "L-L-P-",
+      "citation": "28 I&N Dec. 241 (BIA 2021)",
+      "url": "https://www.justice.gov/d9/pages/attachments/2021/02/24/4010.pdf"
+    },
+    {
+      "decision_id": 4009,
+      "case_name": "H-L-S-A-",
+      "citation": "28 I&N Dec. 228 (BIA 2021)",
+      "url": "https://www.justice.gov/d9/pages/attachments/2021/01/28/4009.pdf"
+    },
+    {
+      "decision_id": 4008,
+      "case_name": "VIERA-GARCIA and ORDONEZ-VIERA",
+      "citation": "28 I&N Dec. 223 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1118791/dl?inline"
+    },
+    {
+      "decision_id": 4007,
+      "case_name": "DIKHTYAR",
+      "citation": "28 I&N Dec. 214 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1118061/dl?inline"
+    },
+    {
+      "decision_id": 4006,
+      "case_name": "A-B-",
+      "citation": "28 I&N Dec. 199 (A.G. 2021)",
+      "url": "https://www.justice.gov/media/1115201/dl?inline"
+    },
+    {
+      "decision_id": 4005,
+      "case_name": "O-M-O-",
+      "citation": "28 I&N Dec. 191 (BIA 2021)",
+      "url": "https://www.justice.gov/media/1113751/dl?inline"
+    },
+    {
+      "decision_id": 4004,
+      "case_name": "RIVERA-MENDOZA",
+      "citation": "28 I&N Dec. 184 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1111646/dl?inline"
+    },
+    {
+      "decision_id": 4003,
+      "case_name": "M-A-M-Z-",
+      "citation": "28 I&N Dec. 173 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1111256/dl?inline"
+    },
+    {
+      "decision_id": 4002,
+      "case_name": "MELGAR",
+      "citation": "28 I&N Dec. 169 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1108716/dl?inline"
+    },
+    {
+      "decision_id": 4001,
+      "case_name": "PADILLA RODRIGUEZ",
+      "citation": "28 I&N Dec. 164 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1106051/dl?inline"
+    },
+    {
+      "decision_id": 4000,
+      "case_name": "H-Y-Z-",
+      "citation": "28 I&N Dec. 156 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1104461/dl?inline"
+    },
+    {
+      "decision_id": 3999,
+      "case_name": "NEGUSIE",
+      "citation": "28 I&N Dec. 120 (A.G. 2020)",
+      "url": "https://www.justice.gov/media/1103641/dl?inline"
+    },
+    {
+      "decision_id": 3998,
+      "case_name": "PAK",
+      "citation": "28 I&N Dec. 113 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1102176/dl?inline"
+    },
+    {
+      "decision_id": 3997,
+      "case_name": "VOSS",
+      "citation": "28 I&N Dec. 107 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1098691/dl?inline"
+    },
+    {
+      "decision_id": 3996,
+      "case_name": "J-G-T-",
+      "citation": "28 I&N Dec. 97 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1093711/dl?inline"
+    },
+    {
+      "decision_id": 3995,
+      "case_name": "A-C-A-A-",
+      "citation": "28 I&N Dec.\u00a084 \u00a0(A.G. 2020)",
+      "url": "https://www.justice.gov/d9/2023-11/3995_ed.pdf"
+    },
+    {
+      "decision_id": 3994,
+      "case_name": "R-C-R-",
+      "citation": "28 I&N Dec. 74 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1088276/dl?inline"
+    },
+    {
+      "decision_id": 3993,
+      "case_name": "NIVELO CARDENAS",
+      "citation": "28 I&N Dec. 68 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1088106/dl?inline"
+    },
+    {
+      "decision_id": 3992,
+      "case_name": "REYES",
+      "citation": "28 I&N Dec. 52 (A.G. 2020)",
+      "url": "https://www.justice.gov/media/1080601/dl?inline"
+    },
+    {
+      "decision_id": 3991,
+      "case_name": "P-B-B-",
+      "citation": "28 I&N Dec. 43 (BIA 2020)",
+      "url": "https://www.justice.gov/d9/2023-11/3991.pdf"
+    },
+    {
+      "decision_id": 3990,
+      "case_name": "O\u2011F\u2011A\u2011S\u2011",
+      "citation": "28 I&N Dec.\u00a035 (A.G. 2020)",
+      "url": "https://www.justice.gov/media/1077466/dl?inline"
+    },
+    {
+      "decision_id": 3989,
+      "case_name": "M-D-C-V-",
+      "citation": "28 I&N Dec. 18 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1077366/dl?inline"
+    },
+    {
+      "decision_id": 3988,
+      "case_name": "BAY AREA LEGAL SERVICES, INC",
+      "citation": "28 I&N Dec.\u00a016 (DIR 2020)",
+      "url": "https://www.justice.gov/media/1076266/dl?inline"
+    },
+    {
+      "decision_id": 3987,
+      "case_name": "R. I. ORTEGA",
+      "citation": "28 I&N Dec. 9 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1073546/dl?inline"
+    },
+    {
+      "decision_id": 3986,
+      "case_name": "A-M-R-C-",
+      "citation": "28 I&N Dec.\u00a07\u00a0(A.G. 2020)",
+      "url": "https://www.justice.gov/media/1072986/dl?inline"
+    },
+    {
+      "decision_id": 3985,
+      "case_name": "F-S-N-",
+      "citation": "28 I&N Dec. 1 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1072056/dl?inline"
+    },
+    {
+      "decision_id": 3984,
+      "case_name": "BAY AREA LEGAL SERVICES, INC",
+      "citation": "27 I&N Dec. 837 (DIR 2020)",
+      "url": "https://www.justice.gov/media/1068276/dl?inline"
+    },
+    {
+      "decision_id": 3983,
+      "case_name": "HERRERA-VASQUEZ",
+      "citation": "27 I&N Dec. 825 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1066466/dl?inline"
+    },
+    {
+      "decision_id": 3982,
+      "case_name": "K-S-E-",
+      "citation": "27 I&N Dec. 818 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1062541/dl?inline"
+    },
+    {
+      "decision_id": 3981,
+      "case_name": "J-J-G-",
+      "citation": "27 I&N Dec. 808 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1060881/dl?inline"
+    },
+    {
+      "decision_id": 3980,
+      "case_name": "R-A-V-P-",
+      "citation": "27 I&N Dec. 803 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1057661/dl?inline"
+    },
+    {
+      "decision_id": 3979,
+      "case_name": "W-E-R-B-",
+      "citation": "27 I&N Dec. 795 (BIA 2020)",
+      "url": "https://www.justice.gov/d9/2023-11/3979.pdf"
+    },
+    {
+      "decision_id": 3978,
+      "case_name": "JIMENEZ-CEDILLO",
+      "citation": "27 IN Dec. 782 (BIA 2020)",
+      "url": "https://www.justice.gov/d9/2023-11/3978.pdf"
+    },
+    {
+      "decision_id": 3977,
+      "case_name": "R\u2011A\u2011F\u2011",
+      "citation": "27 I&N Dec. 778 (A.G. 2020)",
+      "url": "https://www.justice.gov/media/1053541/dl?inline"
+    },
+    {
+      "decision_id": 3976,
+      "case_name": "E-R-A-L-",
+      "citation": "27 I&N Dec. 767 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1050416/dl?inline"
+    },
+    {
+      "decision_id": 3975,
+      "case_name": "J.J. RODRIGUEZ",
+      "citation": "27 I&N Dec. 762 (BIA 2020)",
+      "url": "https://www.justice.gov/d9/2023-11/3975.pdf"
+    },
+    {
+      "decision_id": 3974,
+      "case_name": "L-N-Y-",
+      "citation": "27 I&N Dec. 755 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1072126/dl?inline"
+    },
+    {
+      "decision_id": 3973,
+      "case_name": "ROSALES VARGAS and ROSALES ROSALES",
+      "citation": "27 I&N Dec. 745 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1041446/dl?inline"
+    },
+    {
+      "decision_id": 3972,
+      "case_name": "SALAD",
+      "citation": "27 I&N Dec. 733 (BIA 2020)",
+      "url": "https://www.justice.gov/media/1040801/dl?inline"
+    },
+    {
+      "decision_id": 3971,
+      "case_name": "Y-I-M-",
+      "citation": "27 I&N Dec. 724 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1037766/dl?inline"
+    },
+    {
+      "decision_id": 3970,
+      "case_name": "O-F-A-S-",
+      "citation": "27 I&N Dec. 709 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1036691/dl?inline"
+    },
+    {
+      "decision_id": 3969,
+      "case_name": "REYES",
+      "citation": "27 I&N Dec.\u00a0708 (A.G. 2019)",
+      "url": "https://www.justice.gov/media/1033681/dl?inline"
+    },
+    {
+      "decision_id": 3968,
+      "case_name": "X-Q-L-",
+      "citation": "27 I&N Dec. 704 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1032016/dl?inline"
+    },
+    {
+      "decision_id": 3967,
+      "case_name": "C-A-S-D-",
+      "citation": "27 I&N Dec.\u00a0692 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1031281/dl?inline"
+    },
+    {
+      "decision_id": 3966,
+      "case_name": "THOMAS and THOMPSON",
+      "citation": "27 I&N Dec. 674\u00a0(A.G 2019)",
+      "url": "https://www.justice.gov/media/1031276/dl?inline"
+    },
+    {
+      "decision_id": 3965,
+      "case_name": "CASTILLO-PEREZ",
+      "citation": "27 I&N Dec.\u00a0664 (A.G. 2019)",
+      "url": "https://www.justice.gov/media/1030821/dl?inline"
+    },
+    {
+      "decision_id": 3964,
+      "case_name": "CORDERO-GARCIA",
+      "citation": "27 I&N Dec. 652 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1029736/dl?inline"
+    },
+    {
+      "decision_id": 3963,
+      "case_name": "J-G-P",
+      "citation": "27 I&N Dec. 642 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1028481/dl?inline"
+    },
+    {
+      "decision_id": 3962,
+      "case_name": "H-G-G",
+      "citation": "27 I&N Dec. 617 (AAO 2019)",
+      "url": "https://www.justice.gov/media/1026966/dl?inline"
+    },
+    {
+      "decision_id": 3961,
+      "case_name": "GONZALEZ LEMUS",
+      "citation": "27 I&N Dec. 612 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1026236/dl?inline"
+    },
+    {
+      "decision_id": 3960,
+      "case_name": "P. SINGH",
+      "citation": "27 I&N Dec. 598 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1022166/dl?inline"
+    },
+    {
+      "decision_id": 3959,
+      "case_name": "L-E-A-",
+      "citation": "27 I&N Dec. 581\u00a0(A.G. 2019)",
+      "url": "https://www.justice.gov/media/1016386/dl?inline"
+    },
+    {
+      "decision_id": 3958,
+      "case_name": "D-A-C-",
+      "citation": "27 I&N Dec. 575 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1015956/dl?inline"
+    },
+    {
+      "decision_id": 3957,
+      "case_name": "ZHANG",
+      "citation": "27 I&N Dec. 569 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1011056/dl?inline"
+    },
+    {
+      "decision_id": 3956,
+      "case_name": "NAVARRO GUADARRAMA",
+      "citation": "27 I&N Dec. 560 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1008126/dl?inline"
+    },
+    {
+      "decision_id": 3955,
+      "case_name": "ANDRADE JASO and CARBAJAL AYALA",
+      "citation": "27 I&N Dec. 557 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1006321/dl?inline"
+    },
+    {
+      "decision_id": 3954,
+      "case_name": "THOMAS and THOMPSON",
+      "citation": "27 I&N Dec. 556 (A.G. 2019)",
+      "url": "https://www.justice.gov/media/1005871/dl?inline"
+    },
+    {
+      "decision_id": 3953,
+      "case_name": "MIRANDA-CORDIERO",
+      "citation": "27 I&N Dec. 551 (BIA 2019)",
+      "url": "https://www.justice.gov/d9/2023-11/3953.pdf"
+    },
+    {
+      "decision_id": 3952,
+      "case_name": "PENA-MEJIA",
+      "citation": "27 I&N Dec. 546 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1005426/dl?inline"
+    },
+    {
+      "decision_id": 3951,
+      "case_name": "MENDOZA-HERNANDEZ and CAPULA-CORTES",
+      "citation": "27 I&N Dec. 520 (BIA 2019)",
+      "url": "https://www.justice.gov/media/1002231/dl?inline"
+    },
+    {
+      "decision_id": 3950,
+      "case_name": "M-S-",
+      "citation": "27 I&N Dec. 509 (A.G. 2019)",
+      "url": "https://www.justice.gov/media/1000226/dl?inline"
+    },
+    {
+      "decision_id": 3949,
+      "case_name": "A. VASQUEZ",
+      "citation": "27 I&N Dec. 503 (BIA 2019)",
+      "url": "https://www.justice.gov/d9/2023-11/3949.pdf"
+    },
+    {
+      "decision_id": 3948,
+      "case_name": "A.J. VALDEZ and Z. VALDEZ",
+      "citation": "27 I&N Dec. 496 (BIA 2018)",
+      "url": "https://www.justice.gov/media/982621/dl?inline"
+    },
+    {
+      "decision_id": 3947,
+      "case_name": "CASTILLO-PEREZ",
+      "citation": "27 I&N Dec. 495 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/979496/dl?inline"
+    },
+    {
+      "decision_id": 3946,
+      "case_name": "L-E-A-",
+      "citation": "27 I&N Dec. 494 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/979491/dl?inline"
+    },
+    {
+      "decision_id": 3945,
+      "case_name": "SONG",
+      "citation": "27 I&N Dec. 488 (BIA 2018)",
+      "url": "https://www.justice.gov/media/977411/dl?inline"
+    },
+    {
+      "decision_id": 3944,
+      "case_name": "J-R-G-P-",
+      "citation": "27 I&N Dec. 482 (BIA 2018)",
+      "url": "https://www.justice.gov/media/974701/dl?inline"
+    },
+    {
+      "decision_id": 3943,
+      "case_name": "NEGUSIE",
+      "citation": "27 I&N Dec. 481 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/972486/dl?inline"
+    },
+    {
+      "decision_id": 3942,
+      "case_name": "M-A-C-O-",
+      "citation": "27 I&N Dec. 477 (BIA 2018)",
+      "url": "https://www.justice.gov/media/972151/dl?inline"
+    },
+    {
+      "decision_id": 3941,
+      "case_name": "M-S-",
+      "citation": "27 I&N Dec. 476\u00a0 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/971946/dl?inline"
+    },
+    {
+      "decision_id": 3940,
+      "case_name": "M-G-G-",
+      "citation": "27 I&N Dec. 475\u00a0 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/971941/dl?inline"
+    },
+    {
+      "decision_id": 3939,
+      "case_name": "VELASQUEZ-RIOS",
+      "citation": "27 I&N Dec. 470 (BIA 2018)",
+      "url": "https://www.justice.gov/media/970921/dl?inline"
+    },
+    {
+      "decision_id": 3938,
+      "case_name": "M-G-G-",
+      "citation": "27 I&N Dec. 469 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/969046/dl?inline"
+    },
+    {
+      "decision_id": 3937,
+      "case_name": "S-O-G- & F-D-B-",
+      "citation": "27 I&N Dec. 462 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/969211/dl?inline"
+    },
+    {
+      "decision_id": 3936,
+      "case_name": "VALENZUELA GALLARDO",
+      "citation": "27 I&N Dec. 449 (BIA 2018)",
+      "url": "https://www.justice.gov/media/967921/dl?inline"
+    },
+    {
+      "decision_id": 3935,
+      "case_name": "BERMUDEZ-COTA",
+      "citation": "27 I&N Dec. 441 (BIA 2018)",
+      "url": "https://www.justice.gov/media/966996/dl?inline"
+    },
+    {
+      "decision_id": 3934,
+      "case_name": "J. M. ACOSTA",
+      "citation": "27 I&N Dec. 420 (BIA 2018)",
+      "url": "https://www.justice.gov/media/966781/dl?inline"
+    },
+    {
+      "decision_id": 3933,
+      "case_name": "L-A-B-R- et al",
+      "citation": "27 I&N Dec. 405\u00a0(A.G. 2018)",
+      "url": "https://www.justice.gov/media/965556/dl?inline"
+    },
+    {
+      "decision_id": 3932,
+      "case_name": "MEDINA-JIMENEZ",
+      "citation": "27 I&N Dec.\u00a0399 (BIA 2018)",
+      "url": "https://www.justice.gov/media/964571/dl?inline"
+    },
+    {
+      "decision_id": 3931,
+      "case_name": "ORTEGA-LOPEZ",
+      "citation": "27 I&N Dec. 382 (BIA 2018)",
+      "url": "https://www.justice.gov/media/964451/dl?inline"
+    },
+    {
+      "decision_id": 3930,
+      "case_name": "NEGUSIE",
+      "citation": "27 I&N Dec.\u00a0347 (BIA 2018)",
+      "url": "https://www.justice.gov/d9/2023-11/3930.pdf"
+    },
+    {
+      "decision_id": 3929,
+      "case_name": "A-B-",
+      "citation": "27 I&N Dec. 316 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/960791/dl?inline"
+    },
+    {
+      "decision_id": 3928,
+      "case_name": "A-C-M-",
+      "citation": "27 I&N Dec.\u00a0303 (BIA 2018)",
+      "url": "https://www.justice.gov/d9/2023-11/3928_0.pdf"
+    },
+    {
+      "decision_id": 3927,
+      "case_name": "DING",
+      "citation": "27 I&N Dec. 295 (BIA 2018)",
+      "url": "https://www.justice.gov/media/952591/dl?inline"
+    },
+    {
+      "decision_id": 3926,
+      "case_name": "CASTRO-TUM",
+      "citation": "27 I&N Dec. 271 (A.G. 2018)",
+      "url": "https://www.justice.gov/d9/2023-11/3926.pdf"
+    },
+    {
+      "decision_id": 3925,
+      "case_name": "L-M-P-",
+      "citation": "27 I&N Dec. 265 (BIA 2018)",
+      "url": "https://www.justice.gov/d9/2023-11/3925.pdf"
+    },
+    {
+      "decision_id": 3924,
+      "case_name": "SANCHEZ-LOPEZ",
+      "citation": "27 I&N Dec. 256 (BIA 2018)",
+      "url": "https://www.justice.gov/d9/pages/attachments/2018/04/20/3924.pdf"
+    },
+    {
+      "decision_id": 3923,
+      "case_name": "MARQUEZ CONDE",
+      "citation": "27 I&N Dec. 251 (BIA 2018)",
+      "url": "https://www.justice.gov/d9/2023-11/3923.pdf"
+    },
+    {
+      "decision_id": 3922,
+      "case_name": "A-B-",
+      "citation": "27 I&N Dec. 247 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/944281/dl?inline"
+    },
+    {
+      "decision_id": 3920,
+      "case_name": "CERVANTES NUNEZ",
+      "citation": "27 I&N Dec. 238 (BIA 2018)",
+      "url": "https://www.justice.gov/d9/2023-11/3920.pdf"
+    },
+    {
+      "decision_id": 3919,
+      "case_name": "ROSA",
+      "citation": "27 I&N Dec. 228 (BIA 2018)",
+      "url": "https://www.justice.gov/d9/2023-11/3919.pdf"
+    },
+    {
+      "decision_id": 3918,
+      "case_name": "A-B-",
+      "citation": "27 I&N Dec. 227 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/939461/dl?inline"
+    },
+    {
+      "decision_id": 3917,
+      "case_name": "E-F-H-L-",
+      "citation": "27 I&N Dec. 226 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/939151/dl?inline"
+    },
+    {
+      "decision_id": 3916,
+      "case_name": "MENDEZ",
+      "citation": "27 I&N Dec.\u00a0219 (BIA 2018)",
+      "url": "https://www.justice.gov/media/938046/dl?inline"
+    },
+    {
+      "decision_id": 3915,
+      "case_name": "J-C-H-F-",
+      "citation": "27 I&N Dec.\u00a0211 (BIA 2018)",
+      "url": "https://www.justice.gov/media/936491/dl?inline"
+    },
+    {
+      "decision_id": 3914,
+      "case_name": "SINIAUSKAS",
+      "citation": "27 I&N Dec.\u00a0207 (BIA 2018)",
+      "url": "https://www.justice.gov/media/932961/dl?inline"
+    },
+    {
+      "decision_id": 3913,
+      "case_name": "CASTILLO ANGULO",
+      "citation": "27 I&N Dec. 194 (BIA 2018)",
+      "url": "https://www.justice.gov/media/932286/dl?inline"
+    },
+    {
+      "decision_id": 3912,
+      "case_name": "W-Y-C-& H-O-B-",
+      "citation": "27 I&N Dec. 189 (BIA 2018)",
+      "url": "https://www.justice.gov/media/931126/dl?inline"
+    },
+    {
+      "decision_id": 3911,
+      "case_name": "CASTRO-TUM",
+      "citation": "27 I&N Dec. 187 (A.G. 2018)",
+      "url": "https://www.justice.gov/media/927606/dl?inline"
+    },
+    {
+      "decision_id": 3910,
+      "case_name": "JASSO ARANGURE",
+      "citation": "27 I&N Dec. 178 (BIA 2017)",
+      "url": "https://www.justice.gov/media/927091/dl?inline"
+    },
+    {
+      "decision_id": 3909,
+      "case_name": "OBSHATKO",
+      "citation": "27 I&N Dec. 173 (BIA 2017)",
+      "url": "https://www.justice.gov/media/922321/dl?inline"
+    },
+    {
+      "decision_id": 3908,
+      "case_name": "J-A-B- & I-J-V-A-",
+      "citation": "27 I&N Dec. 168 (BIA 2017)",
+      "url": "https://www.justice.gov/media/919816/dl?inline"
+    },
+    {
+      "decision_id": 3907,
+      "case_name": "KEELEY",
+      "citation": "27 I&N Dec. 146 (BIA 2017)",
+      "url": "https://www.justice.gov/media/918661/dl?inline"
+    },
+    {
+      "decision_id": 3906,
+      "case_name": "TAVDIDISHVILI",
+      "citation": "27 I&N Dec. 142 (BIA 2017)",
+      "url": "https://www.justice.gov/media/917561/dl?inline"
+    },
+    {
+      "decision_id": 3905,
+      "case_name": "VELLA",
+      "citation": "27 I&N Dec. 138 (BIA 2017)",
+      "url": "https://www.justice.gov/d9/2023-11/3905.pdf"
+    },
+    {
+      "decision_id": 3904,
+      "case_name": "PANGAN-SIS",
+      "citation": "27 I&N Dec.\u00a0130 (BIA 2017)",
+      "url": "https://www.justice.gov/media/917571/dl?inline"
+    },
+    {
+      "decision_id": 3903,
+      "case_name": "REHMAN",
+      "citation": "27 I&N Dec. 124 (BIA 2017)",
+      "url": "https://www.justice.gov/media/914011/dl?inline"
+    },
+    {
+      "decision_id": 3902,
+      "case_name": "D-R-",
+      "citation": "27 I&N Dec.\u00a0105 (BIA 2017)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2017/09/14/3902_0.pdf"
+    },
+    {
+      "decision_id": 3901,
+      "case_name": "DELGADO",
+      "citation": "27 I&N Dec.\u00a0100 (BIA 2017)",
+      "url": "https://www.justice.gov/media/912376/dl?inline"
+    },
+    {
+      "decision_id": 3900,
+      "case_name": "MOHAMED",
+      "citation": "27 I&N Dec. 92 (BIA 2017)",
+      "url": "https://www.justice.gov/media/912151/dl?inline"
+    },
+    {
+      "decision_id": 3899,
+      "case_name": "J-G-D-F-",
+      "citation": "27 I&N Dec. 82 (BIA 2017)",
+      "url": "https://www.justice.gov/media/909521/dl?inline"
+    },
+    {
+      "decision_id": 3898,
+      "case_name": "N-A-I-",
+      "citation": "N-A-I- , 27 I&N Dec.72 (BIA 2017)",
+      "url": "https://www.justice.gov/media/906401/dl?inline"
+    },
+    {
+      "decision_id": 3897,
+      "case_name": "IZAGUIRRE",
+      "citation": "27 I&N Dec. 67 (BIA 2017)",
+      "url": "https://www.justice.gov/media/904811/dl?inline"
+    },
+    {
+      "decision_id": 3896,
+      "case_name": "DEANG",
+      "citation": "27 I&N Dec.\u00a057 (BIA 2017)",
+      "url": "https://www.justice.gov/d9/2023-11/3896.pdf"
+    },
+    {
+      "decision_id": 3895,
+      "case_name": "FALODUN",
+      "citation": "27 I&N Dec. 52 (BIA 2017)",
+      "url": "https://www.justice.gov/media/898581/dl?inline"
+    },
+    {
+      "decision_id": 3894,
+      "case_name": "ALDAY-DOMINGUEZ",
+      "citation": "27 I&N Dec. 48 (BIA 2017)",
+      "url": "https://www.justice.gov/media/898411/dl?inline"
+    },
+    {
+      "decision_id": 3893,
+      "case_name": "L-E-A-",
+      "citation": "27 I&N Dec. 40 (BIA 2017)",
+      "url": "https://www.justice.gov/media/896776/dl?inline"
+    },
+    {
+      "decision_id": 3892,
+      "case_name": "M-B-C",
+      "citation": "27 I&N Dec.\u00a031 (BIA 2017)",
+      "url": "https://www.justice.gov/media/908746/dl?inline"
+    },
+    {
+      "decision_id": 3891,
+      "case_name": "J.M",
+      "citation": "27 I&N Dec.\u00a027 (BIA 2017)",
+      "url": "https://www.justice.gov/media/893981/dl?inline"
+    },
+    {
+      "decision_id": 3890,
+      "case_name": "CHAIREZ",
+      "citation": "27 I&N Dec.\u00a021 (BIA 2017)",
+      "url": "https://www.justice.gov/media/892306/dl?inline"
+    },
+    {
+      "decision_id": 3889,
+      "case_name": "W-Y-U-",
+      "citation": "27 I&N Dec. 17 (BIA 2017)",
+      "url": "https://www.justice.gov/media/891011/dl?inline"
+    },
+    {
+      "decision_id": 3888,
+      "case_name": "WU",
+      "citation": "27 I&N Dec. 8 (BIA 2017)",
+      "url": "https://www.justice.gov/media/890416/dl?inline"
+    },
+    {
+      "decision_id": 3887,
+      "case_name": "JIMENEZ-CEDILLO",
+      "citation": "27 I&N Dec.\u00a01 (BIA 2017)",
+      "url": "https://www.justice.gov/media/889376/dl?inline"
+    },
+    {
+      "decision_id": 3886,
+      "case_name": "FLORES-ABARCA",
+      "citation": "26 I&N Dec. 922 (BIA 2017)",
+      "url": "https://www.justice.gov/media/883421/dl?inline"
+    },
+    {
+      "decision_id": 3885,
+      "case_name": "KIM",
+      "citation": "26 I&N Dec. 912 (BIA 2017)",
+      "url": "https://www.justice.gov/media/877696/dl?inline"
+    },
+    {
+      "decision_id": 3884,
+      "case_name": "CALCANO DE MILLAN",
+      "citation": "26 I&N Dec. 904 (BIA 2017)",
+      "url": "https://www.justice.gov/media/873251/dl?inline"
+    },
+    {
+      "decision_id": 3883,
+      "case_name": "ALVARADO",
+      "citation": "26 I&N Dec. 895 (BIA 2016)",
+      "url": "https://www.justice.gov/media/871716/dl?inline"
+    },
+    {
+      "decision_id": 3882,
+      "case_name": "DHANASAR",
+      "citation": "26 I&N Dec. 884 (AAO 2016)",
+      "url": "https://www.justice.gov/media/871246/dl?inline"
+    },
+    {
+      "decision_id": 3881,
+      "case_name": "W-A-F-C-",
+      "citation": "26 I&N Dec. 880 (BIA 2016)",
+      "url": "https://www.justice.gov/media/869856/dl?inline"
+    },
+    {
+      "decision_id": 3880,
+      "case_name": "M-S-B-",
+      "citation": "26 I&N Dec. 872 (BIA 2016)",
+      "url": "https://www.justice.gov/media/869286/dl?inline"
+    },
+    {
+      "decision_id": 3879,
+      "case_name": "L-T-P-",
+      "citation": "26 I&N Dec. 862 (BIA 2016)",
+      "url": "https://www.justice.gov/media/867821/dl?inline"
+    },
+    {
+      "decision_id": 3878,
+      "case_name": "OBEYA",
+      "citation": "26 I&N Dec. 856 (BIA 2016)",
+      "url": "https://www.justice.gov/media/866156/dl?inline"
+    },
+    {
+      "decision_id": 3877,
+      "case_name": "DIAZ-LIZARRAGA",
+      "citation": "26 I&N Dec. 847 (BIA 2016)",
+      "url": "https://www.justice.gov/media/866151/dl?inline"
+    },
+    {
+      "decision_id": 3876,
+      "case_name": "TIMA",
+      "citation": "26 I&N Dec. 839 (BIA 2016)",
+      "url": "https://www.justice.gov/d9/2023-11/3876.pdf"
+    },
+    {
+      "decision_id": 3875,
+      "case_name": "SILVA-TREVINO",
+      "citation": "SILVA-TREVINO , 26 I&N 826 (BIA 2016)",
+      "url": "https://www.justice.gov/media/861036/dl?inline"
+    },
+    {
+      "decision_id": 3874,
+      "case_name": "CHAIREZ",
+      "citation": "26 I&N Dec. 819 (BIA 2016)",
+      "url": "https://www.justice.gov/media/859106/dl?inline"
+    },
+    {
+      "decision_id": 3873,
+      "case_name": "ZARAGOZA-VAQUERO",
+      "citation": "26 I&N Dec. 814 (BIA 2016)",
+      "url": "https://www.justice.gov/media/857826/dl?inline"
+    },
+    {
+      "decision_id": 3872,
+      "case_name": "IBARRA",
+      "citation": "26 I&N Dec. 809 (BIA 2016)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2016/09/15/3872.pdf"
+    },
+    {
+      "decision_id": 3871,
+      "case_name": "GUZMAN-POLANCO",
+      "citation": "26 I&N Dec.\u00a0 806 (BIA 2016)",
+      "url": "https://www.justice.gov/media/854966/dl?inline"
+    },
+    {
+      "decision_id": 3870,
+      "case_name": "KHAN",
+      "citation": "26 I&N Dec. 797 (BIA 2016)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2016/09/08/3870_0.pdf"
+    },
+    {
+      "decision_id": 3869,
+      "case_name": "CHAIREZ and SAMA",
+      "citation": "26 I&N Dec. 796 (A.G. 2016)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2016/09/07/3869_0.pdf"
+    },
+    {
+      "decision_id": 3868,
+      "case_name": "FATAHI",
+      "citation": "26 I&N Dec. 791 (BIA 2016)",
+      "url": "https://www.justice.gov/media/850471/dl?inline"
+    },
+    {
+      "decision_id": 3867,
+      "case_name": "RICHMOND",
+      "citation": "26 I&N Dec. 779 (BIA 2016)",
+      "url": "https://www.justice.gov/media/849556/dl?inline"
+    },
+    {
+      "decision_id": 3866,
+      "case_name": "M-J-K-",
+      "citation": "26 I&N Dec. 773 (BIA 2016)",
+      "url": "https://www.justice.gov/media/846056/dl?inline"
+    },
+    {
+      "decision_id": 3865,
+      "case_name": "GOMEZ-BELTRAN",
+      "citation": "26 I&N Dec. 765 (BIA 2016)",
+      "url": "https://www.justice.gov/media/845706/dl?inline"
+    },
+    {
+      "decision_id": 3864,
+      "case_name": "M-H-Z-",
+      "citation": "26 I&N Dec. 757 (BIA 2016)",
+      "url": "https://www.justice.gov/media/843236/dl?inline"
+    },
+    {
+      "decision_id": 3863,
+      "case_name": "H. ESTRADA",
+      "citation": "26 I&N Dec. 749 (BIA 2016)",
+      "url": "https://www.justice.gov/media/841911/dl?inline"
+    },
+    {
+      "decision_id": 3862,
+      "case_name": "GONZALEZ ROMO",
+      "citation": "26 I&N Dec. 743 (BIA 2016)",
+      "url": "https://www.justice.gov/media/832561/dl?inline"
+    },
+    {
+      "decision_id": 3861,
+      "case_name": "GARZA-OLIVARES",
+      "citation": "26 I&N Dec. 736 (BIA 2016)",
+      "url": "https://www.justice.gov/media/830866/dl?inline"
+    },
+    {
+      "decision_id": 3860,
+      "case_name": "RUZKU",
+      "citation": "26 I&N Dec. 731 (BIA 2016)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2016/03/29/3860.pdf"
+    },
+    {
+      "decision_id": 3859,
+      "case_name": "ADENIYE",
+      "citation": "26 I&N Dec. 726 (BIA 2016)",
+      "url": "https://www.justice.gov/media/830351/dl?inline"
+    },
+    {
+      "decision_id": 3858,
+      "case_name": "VILLALOBOS",
+      "citation": "26 I&N Dec. 719 (BIA 2016)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2016/03/10/3858.pdf"
+    },
+    {
+      "decision_id": 3857,
+      "case_name": "GUZMAN-POLANCO",
+      "citation": "26 I&N Dec. 713 (BIA 2016)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2016/02/24/3857.pdf"
+    },
+    {
+      "decision_id": 3856,
+      "case_name": "MENDOZA OSORIO",
+      "citation": "26 I&N Dec. 703 (BIA 2016)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2016/02/09/3856.pdf"
+    },
+    {
+      "decision_id": 3855,
+      "case_name": "CALVILLO GARCIA",
+      "citation": "26 I&N Dec. 697 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/12/09/3855.pdf"
+    },
+    {
+      "decision_id": 3854,
+      "case_name": "CASTRO-LOPEZ",
+      "citation": "26 I&N Dec. 693 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/12/02/3854.pdf"
+    },
+    {
+      "decision_id": 3853,
+      "case_name": "Y-S-L-C-",
+      "citation": "26 I&N Dec. 688 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/11/23/3853.pdf"
+    },
+    {
+      "decision_id": 3852,
+      "case_name": "CHAIREZ and SAMA",
+      "citation": "26 I&N Dec. 686\u00a0(A.G. 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/11/02/3852_correction.pdf"
+    },
+    {
+      "decision_id": 3851,
+      "case_name": "J-S-S-",
+      "citation": "26 I&N Dec. 679\u00a0(BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/11/02/3851.pdf"
+    },
+    {
+      "decision_id": 3850,
+      "case_name": "GARCIA-RAMIREZ",
+      "citation": "26 I&N Dec. 674 (BIA 2015)",
+      "url": "https://www.justice.gov/media/802296/dl?inline"
+    },
+    {
+      "decision_id": 3849,
+      "case_name": "CASTREJON-COLINO",
+      "citation": "26 I&N Dec. 667 (BIA 2015)",
+      "url": "https://www.justice.gov/media/802376/dl?inline"
+    },
+    {
+      "decision_id": 3848,
+      "case_name": "R-K-K-",
+      "citation": "26 I&N Dec. 658 (BIA 2015)",
+      "url": "https://www.justice.gov/media/789461/dl?inline"
+    },
+    {
+      "decision_id": 3847,
+      "case_name": "M-A-F-",
+      "citation": "26 I&N Dec. 651 (BIA 2015)",
+      "url": "https://www.justice.gov/media/786371/dl?inline"
+    },
+    {
+      "decision_id": 3846,
+      "case_name": "D-M-C-P-",
+      "citation": "26 I&N Dec. 644 (BIA 2015)",
+      "url": "https://www.justice.gov/media/675826/dl?inline"
+    },
+    {
+      "decision_id": 3845,
+      "case_name": "ORDAZ",
+      "citation": "26 I&N Dec. 637 (BIA 2015)",
+      "url": "https://www.justice.gov/media/674391/dl?inline"
+    },
+    {
+      "decision_id": 3844,
+      "case_name": "R. HUANG",
+      "citation": "26 I&N Dec. 627 (BIA 2015)",
+      "url": "https://www.justice.gov/media/631746/dl?inline"
+    },
+    {
+      "decision_id": 3843,
+      "case_name": "P. SINGH",
+      "citation": "26 I&N Dec. 623 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/07/16/3843_correction.pdf"
+    },
+    {
+      "decision_id": 3842,
+      "case_name": "PENA",
+      "citation": "26 I&N Dec. 613 (BIA 2015)",
+      "url": "https://www.justice.gov/media/520006/dl?inline"
+    },
+    {
+      "decision_id": 3841,
+      "case_name": "J-R-R-A-",
+      "citation": "26 I&N Dec. 609 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/07/16/3841_correction.pdf"
+    },
+    {
+      "decision_id": 3840,
+      "case_name": "FAJARDO ESPINOZA",
+      "citation": "26 I&N Dec. 603 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/06/08/3840.pdf"
+    },
+    {
+      "decision_id": 3839,
+      "case_name": "FRANCISCO-ALONZO",
+      "citation": "26 I&N Dec. 594 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/06/02/3839.pdf"
+    },
+    {
+      "decision_id": 3838,
+      "case_name": "Z-Z-O-",
+      "citation": "26 I&N Dec. 586 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/05/26/3838.pdf"
+    },
+    {
+      "decision_id": 3837,
+      "case_name": "AGOUR",
+      "citation": "26 I&N Dec. 566 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/05/18/3837_0.pdf"
+    },
+    {
+      "decision_id": 3836,
+      "case_name": "J-H-J-",
+      "citation": "26 I&N Dec. 563 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/05/12/3836_0.pdf"
+    },
+    {
+      "decision_id": 3835,
+      "case_name": "FITZPATRICK",
+      "citation": "26 I&N Dec. 559 (BIA 2015)",
+      "url": "https://www.justice.gov/file/3835pdf/download"
+    },
+    {
+      "decision_id": 3833,
+      "case_name": "SILVA-TREVINO",
+      "citation": "26 I&N Dec. 550 (A.G. 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/07/16/3833_correction.pdf"
+    },
+    {
+      "decision_id": 3832,
+      "case_name": "SIMEIO SOLUTIONS, LLC",
+      "citation": "26 I&N Dec. 542 (AAO 2015)",
+      "url": "https://www.justice.gov/sites/default/files/eoir/pages/attachments/2015/04/16/3832.pdf"
+    },
+    {
+      "decision_id": 3831,
+      "case_name": "CHRISTO'S, INC",
+      "citation": "26 I&N Dec. 537 (AAO 2015)",
+      "url": "https://www.justice.gov/sites/default/files/eoir/pages/attachments/2015/04/16/3831.pdf"
+    },
+    {
+      "decision_id": 3830,
+      "case_name": "LEACHENG INTERNATIONAL, INC",
+      "citation": "26 I&N Dec. 532 (AAO 2015)",
+      "url": "https://www.justice.gov/sites/default/files/eoir/pages/attachments/2015/04/16/3830.pdf"
+    },
+    {
+      "decision_id": 3829,
+      "case_name": "CERDA REYES",
+      "citation": "26 I&N Dec. 528 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/07/16/3829_correction.pdf"
+    },
+    {
+      "decision_id": 3828,
+      "case_name": "L-A-C-",
+      "citation": "26 I&N Dec. 516 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/07/16/3828_correction.pdf"
+    },
+    {
+      "decision_id": 3827,
+      "case_name": "VIDES CASANOVA",
+      "citation": "26 I&N Dec. 494 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/05/27/3827.pdf"
+    },
+    {
+      "decision_id": 3826,
+      "case_name": "CROSS",
+      "citation": "26 I&N Dec. 485 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/eoir/pages/attachments/2015/02/18/3826.pdf"
+    },
+    {
+      "decision_id": 3825,
+      "case_name": "CHAIREZ",
+      "citation": "26 I&N Dec. 478 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/eoir/pages/attachments/2015/02/18/3825.pdf"
+    },
+    {
+      "decision_id": 3824,
+      "case_name": "ESQUIVEL-QUINTANA",
+      "citation": "26 I&N Dec. 469 (BIA 2015)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3824.pdf"
+    },
+    {
+      "decision_id": 3823,
+      "case_name": "O. A. HERNANDEZ",
+      "citation": "26 I&N Dec. 464 (BIA 2015)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3823.pdf"
+    },
+    {
+      "decision_id": 3822,
+      "case_name": "VELASQUEZ-CRUZ",
+      "citation": "26 I&N Dec. 458 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3822.pdf"
+    },
+    {
+      "decision_id": 3821,
+      "case_name": "UNITED FARM WORKERS FOUNDATION",
+      "citation": "26 I&N Dec. 454 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3821.pdf"
+    },
+    {
+      "decision_id": 3820,
+      "case_name": "AYUDA",
+      "citation": "26 I&N Dec. 449 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3820.pdf"
+    },
+    {
+      "decision_id": 3819,
+      "case_name": "ST. FRANCIS CABRINI IMMIGRATION LAW CENTER",
+      "citation": "26 I&N Dec. 445 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3819.pdf"
+    },
+    {
+      "decision_id": 3818,
+      "case_name": "BETT",
+      "citation": "26 I&N Dec. 437 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3818.pdf"
+    },
+    {
+      "decision_id": 3817,
+      "case_name": "MUNROE",
+      "citation": "26 I&N Dec. 428 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3817.pdf"
+    },
+    {
+      "decision_id": 3816,
+      "case_name": "PINA-GALINDO",
+      "citation": "26 I&N Dec. 423 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3816.pdf"
+    },
+    {
+      "decision_id": 3815,
+      "case_name": "FERREIRA",
+      "citation": "26 I&N Dec. 415 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3815.pdf"
+    },
+    {
+      "decision_id": 3814,
+      "case_name": "DOMINGUEZ-RODRIGUEZ",
+      "citation": "26 I&N Dec. 408 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3814.pdf"
+    },
+    {
+      "decision_id": 3813,
+      "case_name": "PAEK",
+      "citation": "26 I&N Dec. 403 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3813.pdf"
+    },
+    {
+      "decision_id": 3812,
+      "case_name": "HERNANDEZ",
+      "citation": "26 I&N Dec. 397 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3812.pdf"
+    },
+    {
+      "decision_id": 3811,
+      "case_name": "A-R-C-G-",
+      "citation": "26 I&N Dec. 388 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3811.pdf"
+    },
+    {
+      "decision_id": 3810,
+      "case_name": "C-C-I-",
+      "citation": "26 I&N Dec. 375 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3810.pdf"
+    },
+    {
+      "decision_id": 3809,
+      "case_name": "L-G-H-",
+      "citation": "26 I&N Dec. 365 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3809.pdf"
+    },
+    {
+      "decision_id": 3808,
+      "case_name": "M-L-M-A-",
+      "citation": "26 I&N Dec. 360 (BIA 2014)",
+      "url": "https://www.justice.gov/sites/default/files/pages/attachments/2015/09/11/3808.pdf"
+    },
+    {
+      "decision_id": 3807,
+      "case_name": "CHAIREZ",
+      "citation": "26 I&N Dec. 349 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3807.pdf"
+    },
+    {
+      "decision_id": 3806,
+      "case_name": "G-G-S-",
+      "citation": "26 I&N Dec. 339 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3806.pdf"
+    },
+    {
+      "decision_id": 3805,
+      "case_name": "P-S-H-",
+      "citation": "26 I&N Dec. 329 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3805.pdf"
+    },
+    {
+      "decision_id": 3804,
+      "case_name": "DUARTE-LUNA and LUNA",
+      "citation": "26 I&N Dec. 325 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3804.pdf"
+    },
+    {
+      "decision_id": 3803,
+      "case_name": "E-F-H-L-",
+      "citation": "26 I&N Dec. 319 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3803.pdf"
+    },
+    {
+      "decision_id": 3802,
+      "case_name": "JACKSON and ERANDIO",
+      "citation": "26 I&N Dec. 314 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3802.pdf"
+    },
+    {
+      "decision_id": 3801,
+      "case_name": "INTROCASO",
+      "citation": "26 I&N Dec. 304 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3801.pdf"
+    },
+    {
+      "decision_id": 3800,
+      "case_name": "ACEIJAS-QUIROZ",
+      "citation": "26 I&N Dec. 294 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3800.pdf"
+    },
+    {
+      "decision_id": 3799,
+      "case_name": "SIERRA",
+      "citation": "26 I&N Dec. 288 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3799.pdf"
+    },
+    {
+      "decision_id": 3798,
+      "case_name": "C-J-H-",
+      "citation": "26 I&N Dec. 284 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3798.pdf"
+    },
+    {
+      "decision_id": 3797,
+      "case_name": "CHAVEZ-ALVAREZ",
+      "citation": "26 I&N Dec. 274 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3797.pdf"
+    },
+    {
+      "decision_id": 3796,
+      "case_name": "ABDELGHANY",
+      "citation": "26 I&N Dec. 254 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3796.pdf"
+    },
+    {
+      "decision_id": 3795,
+      "case_name": "M-E-V-G-",
+      "citation": "26 I&N Dec. 227 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3795.pdf"
+    },
+    {
+      "decision_id": 3794,
+      "case_name": "W-G-R-",
+      "citation": "26 I&N Dec. 208 (BIA 2014)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3794.pdf"
+    },
+    {
+      "decision_id": 3793,
+      "case_name": "OPPEDISANO",
+      "citation": "26 I&N Dec. 202 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3793.pdf"
+    },
+    {
+      "decision_id": 3792,
+      "case_name": "DOUGLAS",
+      "citation": "26 I&N Dec. 197 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3792_final.pdf"
+    },
+    {
+      "decision_id": 3791,
+      "case_name": "PINZON",
+      "citation": "26 I&N Dec. 189 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3791.pdf"
+    },
+    {
+      "decision_id": 3790,
+      "case_name": "ESTRADA",
+      "citation": "26 I&N Dec. 180 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3790.pdf"
+    },
+    {
+      "decision_id": 3789,
+      "case_name": "TAVAREZ-PERALTA",
+      "citation": "26 I&N Dec. 171 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3789.pdf"
+    },
+    {
+      "decision_id": 3788,
+      "case_name": "J-G-",
+      "citation": "26 I&N Dec. 161 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3788.pdf"
+    },
+    {
+      "decision_id": 3787,
+      "case_name": "ZELENIAK",
+      "citation": "26 I&N Dec. 158 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3787_correction.pdf"
+    },
+    {
+      "decision_id": 3786,
+      "case_name": "FLORES",
+      "citation": "26 I&N Dec. 155 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3786.pdf"
+    },
+    {
+      "decision_id": 3785,
+      "case_name": "V-X-",
+      "citation": "26 I&N Dec. 147 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3785.pdf"
+    },
+    {
+      "decision_id": 3784,
+      "case_name": "E-S-I-",
+      "citation": "26 I&N Dec. 136 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3784.pdf"
+    },
+    {
+      "decision_id": 3783,
+      "case_name": "RIVAS",
+      "citation": "26 I&N Dec. 130 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3783.pdf"
+    },
+    {
+      "decision_id": 3782,
+      "case_name": "OTIENDE",
+      "citation": "26 I&N Dec. 127 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3782.pdf"
+    },
+    {
+      "decision_id": 3781,
+      "case_name": "MONTOYA-SILVA",
+      "citation": "26 I&N Dec. 123 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3781.pdf"
+    },
+    {
+      "decision_id": 3780,
+      "case_name": "B-R-",
+      "citation": "26 I&N Dec. 119 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3780_correction.pdf"
+    },
+    {
+      "decision_id": 3779,
+      "case_name": "BUTT",
+      "citation": "BUTT , 26 I&N Dec.108 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3779.pdf"
+    },
+    {
+      "decision_id": 3778,
+      "case_name": "CENTRAL CALIFORNIA LEGAL SERVICES, INC",
+      "citation": "26 I&N Dec. 105 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3778.pdf"
+    },
+    {
+      "decision_id": 3777,
+      "case_name": "ORTEGA-LOPEZ",
+      "citation": "26 I&N Dec. 99 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3777_correction.pdf"
+    },
+    {
+      "decision_id": 3776,
+      "case_name": "G-K-",
+      "citation": "26 I&N Dec. 88 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3776.pdf"
+    },
+    {
+      "decision_id": 3775,
+      "case_name": "CORTES MEDINA",
+      "citation": "26 I&N Dec. 79 (BIA 2013)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3775_correction.pdf"
+    },
+    {
+      "decision_id": 3774,
+      "case_name": "SANCHEZ-LOPEZ",
+      "citation": "26 I&N Dec. 71 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3774.pdf"
+    },
+    {
+      "decision_id": 3773,
+      "case_name": "VALENZUELA-FELIX",
+      "citation": "26 I&N Dec. 53 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3773.pdf"
+    },
+    {
+      "decision_id": 3772,
+      "case_name": "M-H-",
+      "citation": "26 I&N Dec. 46 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3772.pdf"
+    },
+    {
+      "decision_id": 3771,
+      "case_name": "SANCHEZ-HERBERT",
+      "citation": "26 I&N Dec. 43 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3771.pdf"
+    },
+    {
+      "decision_id": 3770,
+      "case_name": "DAVEY",
+      "citation": "26 I&N Dec. 37 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3770.pdf"
+    },
+    {
+      "decision_id": 3769,
+      "case_name": "M-Z-M-R-",
+      "citation": "26 I&N Dec. 28 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3769.pdf"
+    },
+    {
+      "decision_id": 3768,
+      "case_name": "LEAL",
+      "citation": "26 I&N Dec. 20 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3768_correction.pdf"
+    },
+    {
+      "decision_id": 3767,
+      "case_name": "Y-N-P-",
+      "citation": "26 I&N Dec. 10 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3767.pdf"
+    },
+    {
+      "decision_id": 3766,
+      "case_name": "E-A-",
+      "citation": "26 I&N Dec. 1 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3766.pdf"
+    },
+    {
+      "decision_id": 3765,
+      "case_name": "A-S-J-",
+      "citation": "25 I&N Dec. 893 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3765_correction.pdf"
+    },
+    {
+      "decision_id": 3764,
+      "case_name": "C-B-",
+      "citation": "25 I&N Dec. 888 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3764_correction.pdf"
+    },
+    {
+      "decision_id": 3763,
+      "case_name": "CALDERON-HERNANDEZ",
+      "citation": "25 I&N Dec. 885 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3763.pdf"
+    },
+    {
+      "decision_id": 3762,
+      "case_name": "AKRAM",
+      "citation": "25 I&N Dec. 874 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3762.pdf"
+    },
+    {
+      "decision_id": 3761,
+      "case_name": "VALENZUELA",
+      "citation": "25 I&N Dec. 867 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3761.pdf"
+    },
+    {
+      "decision_id": 3760,
+      "case_name": "CUELLAR",
+      "citation": "25 I&N Dec. 850 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3760.pdf"
+    },
+    {
+      "decision_id": 3759,
+      "case_name": "GUZMAN MARTINEZ",
+      "citation": "25 I&N Dec. 845 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3759.pdf"
+    },
+    {
+      "decision_id": 3758,
+      "case_name": "VALENZUELA GALLARDO",
+      "citation": "25 I&N Dec. 838 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3758.pdf"
+    },
+    {
+      "decision_id": 3757,
+      "case_name": "FERNANDEZ TAVERAS",
+      "citation": "25 I&N Dec. 834 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3757.pdf"
+    },
+    {
+      "decision_id": 3756,
+      "case_name": "ISIDRO",
+      "citation": "25 I&N Dec. 829 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3756.pdf"
+    },
+    {
+      "decision_id": 3755,
+      "case_name": "C. VALDEZ",
+      "citation": "25 I&N Dec. 824 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3755.pdf"
+    },
+    {
+      "decision_id": 3754,
+      "case_name": "O. VAZQUEZ",
+      "citation": "25 I&N Dec. 817 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3754.pdf"
+    },
+    {
+      "decision_id": 3753,
+      "case_name": "SANCHEZ SOSA",
+      "citation": "25 I&N Dec. 807 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3753.pdf"
+    },
+    {
+      "decision_id": 3752,
+      "case_name": "SKIRBALL CULTURAL CENTER",
+      "citation": "25 I&N Dec. 799 (AAO 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3752.pdf"
+    },
+    {
+      "decision_id": 3751,
+      "case_name": "DIAZ-GARCIA",
+      "citation": "25 I&N Dec. 794 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3751.pdf"
+    },
+    {
+      "decision_id": 3750,
+      "case_name": "A-Y-M-",
+      "citation": "25 I&N Dec. 791 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3750.pdf"
+    },
+    {
+      "decision_id": 3749,
+      "case_name": "E. W. RODRIGUEZ",
+      "citation": "25 I&N Dec. 784 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3749.pdf"
+    },
+    {
+      "decision_id": 3748,
+      "case_name": "ARRABALLY AND YERRABELLY",
+      "citation": "25 I&N Dec. 771 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3748 (final).pdf"
+    },
+    {
+      "decision_id": 3747,
+      "case_name": "D-K-",
+      "citation": "25 I&N Dec. 761 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3747.pdf"
+    },
+    {
+      "decision_id": 3746,
+      "case_name": "M-W-",
+      "citation": "25 I&N Dec. 748 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3746.pdf"
+    },
+    {
+      "decision_id": 3745,
+      "case_name": "LEMUS",
+      "citation": "25 I&N Dec. 734 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3745.pdf"
+    },
+    {
+      "decision_id": 3744,
+      "case_name": "LANFERMAN",
+      "citation": "25 I&N Dec. 721 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3744.pdf"
+    },
+    {
+      "decision_id": 3743,
+      "case_name": "ILIC",
+      "citation": "25 I&N Dec. 717 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3743_final.pdf"
+    },
+    {
+      "decision_id": 3742,
+      "case_name": "L-S-",
+      "citation": "25 I&N Dec. 705 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3742.pdf"
+    },
+    {
+      "decision_id": 3741,
+      "case_name": "CASTRO RODRIGUEZ",
+      "citation": "25 I&N Dec. 698 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3741.pdf"
+    },
+    {
+      "decision_id": 3740,
+      "case_name": "AVETISYAN",
+      "citation": "25 I&N Dec. 688 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3740.pdf"
+    },
+    {
+      "decision_id": 3739,
+      "case_name": "J. R. VELASQUEZ",
+      "citation": "25 I&N Dec. 680 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3739.pdf"
+    },
+    {
+      "decision_id": 3738,
+      "case_name": "U. SINGH",
+      "citation": "25 I&N Dec. 670 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3738.pdf"
+    },
+    {
+      "decision_id": 3737,
+      "case_name": "D-X- & Y-Z-",
+      "citation": "25 I&N Dec. 664 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3737.pdf"
+    },
+    {
+      "decision_id": 3736,
+      "case_name": "R-A-M-",
+      "citation": "25 I&N Dec. 657 (BIA 2012)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3736.pdf"
+    },
+    {
+      "decision_id": 3735,
+      "case_name": "ESPINOSA GUILLOT",
+      "citation": "25 I&N Dec. 653 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3735.pdf"
+    },
+    {
+      "decision_id": 3734,
+      "case_name": "CAMARILLO",
+      "citation": "25 I&N Dec. 644 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3734.pdf"
+    },
+    {
+      "decision_id": 3733,
+      "case_name": "ISLAM",
+      "citation": "25 I&N Dec. 637 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3733.pdf"
+    },
+    {
+      "decision_id": 3732,
+      "case_name": "GUERRERO",
+      "citation": "25 I&N Dec. 631 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3732.pdf"
+    },
+    {
+      "decision_id": 3731,
+      "case_name": "RIVENS",
+      "citation": "25 I&N Dec. 623 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3731.pdf"
+    },
+    {
+      "decision_id": 3730,
+      "case_name": "BAUTISTA",
+      "citation": "25 I&N Dec. 616 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3730.pdf"
+    },
+    {
+      "decision_id": 3729,
+      "case_name": "ZAMORA-MOLINA",
+      "citation": "25 I&N Dec. 606 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3729.pdf"
+    },
+    {
+      "decision_id": 3728,
+      "case_name": "CRUZ DE ORTIZ",
+      "citation": "25 I&N Dec. 601 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3728.pdf"
+    },
+    {
+      "decision_id": 3727,
+      "case_name": "FIGUEROA",
+      "citation": "25 I&N Dec. 596 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3727.pdf"
+    },
+    {
+      "decision_id": 3726,
+      "case_name": "HERRERA DEL ORDEN",
+      "citation": "25 I&N Dec. 589 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3726.pdf"
+    },
+    {
+      "decision_id": 3725,
+      "case_name": "E-R-M-F- & A-S-M-",
+      "citation": "25 I&N Dec. 580 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3725.pdf"
+    },
+    {
+      "decision_id": 3724,
+      "case_name": "HENRIQUEZ RIVERA",
+      "citation": "25 I&N Dec. 575 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3724.pdf"
+    },
+    {
+      "decision_id": 3723,
+      "case_name": "RAMON MARTINEZ",
+      "citation": "25 I&N Dec. 571 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3723.pdf"
+    },
+    {
+      "decision_id": 3722,
+      "case_name": "BUSTAMANTE",
+      "citation": "25 I&N Dec. 564 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3722.pdf"
+    },
+    {
+      "decision_id": 3721,
+      "case_name": "SALOMON",
+      "citation": "25 I&N Dec. 559 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3721.pdf"
+    },
+    {
+      "decision_id": 3720,
+      "case_name": "RUIZ-LOPEZ",
+      "citation": "25 I&N Dec. 551 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3720.pdf"
+    },
+    {
+      "decision_id": 3719,
+      "case_name": "LE",
+      "citation": "25 I&N Dec. 541 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3719.pdf"
+    },
+    {
+      "decision_id": 3718,
+      "case_name": "N-C-M-",
+      "citation": "25 I&N Dec. 535 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3718.pdf"
+    },
+    {
+      "decision_id": 3717,
+      "case_name": "N-M-",
+      "citation": "25 I&N Dec. 526 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3717.pdf"
+    },
+    {
+      "decision_id": 3716,
+      "case_name": "E-R-M- & L-R-M-",
+      "citation": "25 I&N Dec. 520 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3716.pdf"
+    },
+    {
+      "decision_id": 3715,
+      "case_name": "ECHEVERRIA",
+      "citation": "25 I&N Dec. 512 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3715.pdf"
+    },
+    {
+      "decision_id": 3714,
+      "case_name": "STRYDOM",
+      "citation": "25 I&N Dec. 507 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3714.pdf"
+    },
+    {
+      "decision_id": 3713,
+      "case_name": "A-G-G-",
+      "citation": "25 I&N Dec. 486 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3713.pdf"
+    },
+    {
+      "decision_id": 3712,
+      "case_name": "DORMAN",
+      "citation": "25 I&N Dec. 485 (A.G. 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3712.pdf"
+    },
+    {
+      "decision_id": 3711,
+      "case_name": "M-A-M-",
+      "citation": "25 I&N Dec. 474 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3711.pdf"
+    },
+    {
+      "decision_id": 3710,
+      "case_name": "CUBOR",
+      "citation": "25 I&N Dec. 470 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3710.pdf"
+    },
+    {
+      "decision_id": 3709,
+      "case_name": "AHORTALEJO-GUZMAN",
+      "citation": "25 I&N Dec. 465 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3709.pdf"
+    },
+    {
+      "decision_id": 3708,
+      "case_name": "D-R-",
+      "citation": "25 I&N Dec. 445 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3708.pdf"
+    },
+    {
+      "decision_id": 3707,
+      "case_name": "SESAY",
+      "citation": "25 I&N Dec. 431 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3707.pdf"
+    },
+    {
+      "decision_id": 3706,
+      "case_name": "VO",
+      "citation": "25 I&N Dec. 426 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3706_correction.pdf"
+    },
+    {
+      "decision_id": 3705,
+      "case_name": "GUEVARA ALFARO",
+      "citation": "25 I&N Dec. 417 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3705.pdf"
+    },
+    {
+      "decision_id": 3704,
+      "case_name": "NELSON",
+      "citation": "25 I&N Dec. 410 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3704.pdf"
+    },
+    {
+      "decision_id": 3703,
+      "case_name": "ALYAZJI",
+      "citation": "25 I&N Dec. 397 (BIA 2011)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3703.pdf"
+    },
+    {
+      "decision_id": 3702,
+      "case_name": "SOSA VENTURA",
+      "citation": "25 I&N Dec. 391 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3702.pdf"
+    },
+    {
+      "decision_id": 3701,
+      "case_name": "SORAM",
+      "citation": "25 I&N Dec. 378 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3701.pdf"
+    },
+    {
+      "decision_id": 3700,
+      "case_name": "CHAWATHE",
+      "citation": "25 I&N Dec. 369 (AAO 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3700.pdf"
+    },
+    {
+      "decision_id": 3699,
+      "case_name": "AL WAZZAN",
+      "citation": "25 I&N Dec. 359 (AAO 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3699.pdf"
+    },
+    {
+      "decision_id": 3698,
+      "case_name": "GRUENANGERL",
+      "citation": "25 I&N Dec. 351 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3698.pdf"
+    },
+    {
+      "decision_id": 3697,
+      "case_name": "C-T-L-",
+      "citation": "25 I&N Dec. 341 (BIA Dec. 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3697.pdf"
+    },
+    {
+      "decision_id": 3696,
+      "case_name": "ANYELO",
+      "citation": "25 I&N Dec. 337 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3696.pdf"
+    },
+    {
+      "decision_id": 3695,
+      "case_name": "GARCIA",
+      "citation": "25 I&N Dec. 332 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3695.pdf"
+    },
+    {
+      "decision_id": 3694,
+      "case_name": "LEGASPI",
+      "citation": "25 I&N Dec. 328 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3694.pdf"
+    },
+    {
+      "decision_id": 3693,
+      "case_name": "X-M-C",
+      "citation": "25 I&N Dec. 322 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3693.pdf"
+    },
+    {
+      "decision_id": 3692,
+      "case_name": "CASILLAS-TOPETE",
+      "citation": "25 I&N Dec. 317 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3692.pdf"
+    },
+    {
+      "decision_id": 3691,
+      "case_name": "PEDROZA",
+      "citation": "25 I&N Dec. 312 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3691.pdf"
+    },
+    {
+      "decision_id": 3690,
+      "case_name": "CORTEZ",
+      "citation": "25 I&N Dec. 301 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3690.pdf"
+    },
+    {
+      "decision_id": 3689,
+      "case_name": "REZA",
+      "citation": "25 I&N Dec. 296 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3689.pdf"
+    },
+    {
+      "decision_id": 3688,
+      "case_name": "QUILANTAN",
+      "citation": "25 I&N Dec. 285 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3688.pdf"
+    },
+    {
+      "decision_id": 3687,
+      "case_name": "VELASQUEZ",
+      "citation": "25 I&N Dec. 278 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3687.pdf"
+    },
+    {
+      "decision_id": 3686,
+      "case_name": "SANCHEZ-CORNEJO",
+      "citation": "25 I&N Dec. 273 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3686.pdf"
+    },
+    {
+      "decision_id": 3685,
+      "case_name": "GARCIA ARREOLA",
+      "citation": "25 I&N Dec. 267 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3685.pdf"
+    },
+    {
+      "decision_id": 3684,
+      "case_name": "INTERIANO-ROSA",
+      "citation": "25 I&N Dec. 264 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3684.pdf"
+    },
+    {
+      "decision_id": 3683,
+      "case_name": "CASTILLO-PADILLA",
+      "citation": "25 I&N Dec. 257 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3683.pdf"
+    },
+    {
+      "decision_id": 3682,
+      "case_name": "MENDEZ-ORELLANA",
+      "citation": "25 I&N Dec. 254 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3682.pdf"
+    },
+    {
+      "decision_id": 3681,
+      "case_name": "MONGES",
+      "citation": "25 I&N Dec. 246 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3681.pdf"
+    },
+    {
+      "decision_id": 3680,
+      "case_name": "B-Y-",
+      "citation": "25 I&N Dec. 236 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3680.pdf"
+    },
+    {
+      "decision_id": 3679,
+      "case_name": "ALANIA",
+      "citation": "25 I&N Dec. 231 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3679.pdf"
+    },
+    {
+      "decision_id": 3678,
+      "case_name": "RICHARDSON",
+      "citation": "25 I&N Dec. 226 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3678.pdf"
+    },
+    {
+      "decision_id": 3677,
+      "case_name": "KOLJENOVIC",
+      "citation": "25 I&N Dec. 219 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3677.pdf"
+    },
+    {
+      "decision_id": 3676,
+      "case_name": "H-L-H- & Z-Y-Z-",
+      "citation": "25 I&N Dec. 209 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3676.pdf"
+    },
+    {
+      "decision_id": 3675,
+      "case_name": "PEREZ RAMIREZ",
+      "citation": "25 I&N Dec. 203 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3675.pdf"
+    },
+    {
+      "decision_id": 3674,
+      "case_name": "MILIAN",
+      "citation": "25 I&N Dec. 197 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3674.pdf"
+    },
+    {
+      "decision_id": 3673,
+      "case_name": "T-M-H- & S-W-C-",
+      "citation": "25 I&N Dec. 193 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3673.pdf"
+    },
+    {
+      "decision_id": 3672,
+      "case_name": "DIAZ AND LOPEZ",
+      "citation": "25 I&N Dec. 188 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3672.pdf"
+    },
+    {
+      "decision_id": 3671,
+      "case_name": "MORALES",
+      "citation": "25 I&N Dec. 186 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3671.pdf"
+    },
+    {
+      "decision_id": 3670,
+      "case_name": "ROSE",
+      "citation": "25 I&N Dec. 181 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3670.pdf"
+    },
+    {
+      "decision_id": 3669,
+      "case_name": "MARCAL NETO",
+      "citation": "25 I&N Dec. 169 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3669.pdf"
+    },
+    {
+      "decision_id": 3668,
+      "case_name": "GAMERO",
+      "citation": "25 I&N Dec. 164 (BIA 2010)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3668.pdf"
+    },
+    {
+      "decision_id": 3667,
+      "case_name": "KRONEGOLD",
+      "citation": "25 I&N Dec. 157 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3667.pdf"
+    },
+    {
+      "decision_id": 3666,
+      "case_name": "MARTINEZ-SERRANO",
+      "citation": "25 I&N Dec. 151 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3666.pdf"
+    },
+    {
+      "decision_id": 3665,
+      "case_name": "PORTILLO-GUTIERREZ",
+      "citation": "25 I&N Dec. 148 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3665.pdf"
+    },
+    {
+      "decision_id": 3664,
+      "case_name": "VELASCO",
+      "citation": "25 I&N Dec. 143 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3664.pdf"
+    },
+    {
+      "decision_id": 3663,
+      "case_name": "URENA",
+      "citation": "25 I&N Dec. 140 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3663.pdf"
+    },
+    {
+      "decision_id": 3662,
+      "case_name": "RAJAH",
+      "citation": "25 I&N Dec. 127 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3662.pdf"
+    },
+    {
+      "decision_id": 3661,
+      "case_name": "MARTINEZ ESPINOZA",
+      "citation": "25 I&N Dec. 118 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3661.pdf"
+    },
+    {
+      "decision_id": 3660,
+      "case_name": "MORENO-ESCOBOSA",
+      "citation": "25 I&N Dec. 114 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3660.pdf"
+    },
+    {
+      "decision_id": 3659,
+      "case_name": "YAURI",
+      "citation": "25 I&N Dec. 103 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3659.pdf"
+    },
+    {
+      "decision_id": 3658,
+      "case_name": "CARRILLO",
+      "citation": "25 I&N Dec. 99 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3658.pdf"
+    },
+    {
+      "decision_id": 3657,
+      "case_name": "GARCIA-GARCIA",
+      "citation": "25 I&N Dec. 93 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3657.pdf"
+    },
+    {
+      "decision_id": 3656,
+      "case_name": "SILITONGA",
+      "citation": "25 I&N Dec. 89 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3656.pdf"
+    },
+    {
+      "decision_id": 3655,
+      "case_name": "G-D-M-",
+      "citation": "25 I&N Dec. 82 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3655.pdf"
+    },
+    {
+      "decision_id": 3654,
+      "case_name": "EVRA",
+      "citation": "25 I&N Dec. 79 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3654.pdf"
+    },
+    {
+      "decision_id": 3653,
+      "case_name": "A-M-",
+      "citation": "25 I&N Dec. 66 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3653.pdf"
+    },
+    {
+      "decision_id": 3652,
+      "case_name": "LAMUS",
+      "citation": "25 I&N Dec. 61 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3652.pdf"
+    },
+    {
+      "decision_id": 3651,
+      "case_name": "BULNES",
+      "citation": "25 I&N Dec. 57 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3651.pdf"
+    },
+    {
+      "decision_id": 3650,
+      "case_name": "LUJAN-QUINTANA",
+      "citation": "25 I&N Dec. 53 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3650.pdf"
+    },
+    {
+      "decision_id": 3649,
+      "case_name": "LOPEZ-ALDANA",
+      "citation": "25 I&N Dec. 49 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3649.pdf"
+    },
+    {
+      "decision_id": 3648,
+      "case_name": "A-W-",
+      "citation": "25 I&N Dec. 45 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3648.pdf"
+    },
+    {
+      "decision_id": 3647,
+      "case_name": "BARCENAS-BARRERA",
+      "citation": "25 I&N Dec. 40 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3647.pdf"
+    },
+    {
+      "decision_id": 3646,
+      "case_name": "WANG",
+      "citation": "25 I&N Dec. 28 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3646.pdf"
+    },
+    {
+      "decision_id": 3645,
+      "case_name": "CARDIEL",
+      "citation": "25 I&N Dec. 12 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3645.pdf"
+    },
+    {
+      "decision_id": 3644,
+      "case_name": "A-T-",
+      "citation": "25 I&N Dec. 4 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3644.pdf"
+    },
+    {
+      "decision_id": 3643,
+      "case_name": "COMPEAN, BANGALY & J-E-C-",
+      "citation": "25 I&N Dec. 1 (A.G. 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol25/3643.pdf"
+    },
+    {
+      "decision_id": 3642,
+      "case_name": "GUZMAN-GOMEZ",
+      "citation": "24 I&N Dec. 824 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3642.pdf"
+    },
+    {
+      "decision_id": 3641,
+      "case_name": "CARDENAS ABREU",
+      "citation": "24 I&N Dec. 795 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3641.pdf"
+    },
+    {
+      "decision_id": 3640,
+      "case_name": "HASHMI",
+      "citation": "24 I&N Dec. 785 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3640.pdf"
+    },
+    {
+      "decision_id": 3639,
+      "case_name": "MARTINEZ-MONTALVO",
+      "citation": "24 I&N Dec. 778 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3639.pdf"
+    },
+    {
+      "decision_id": 3638,
+      "case_name": "ALMANZA",
+      "citation": "24 I&N Dec. 771 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3638.pdf"
+    },
+    {
+      "decision_id": 3637,
+      "case_name": "ZORILLA-VIDAL",
+      "citation": "24 I&N Dec. 768 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3637.pdf"
+    },
+    {
+      "decision_id": 3636,
+      "case_name": "M-A-S-",
+      "citation": "24 I&N Dec. 762 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3636.pdf"
+    },
+    {
+      "decision_id": 3635,
+      "case_name": "LOUISSAINT",
+      "citation": "24 I&N Dec. 754 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3635.pdf"
+    },
+    {
+      "decision_id": 3634,
+      "case_name": "AGUILAR-AQUINO",
+      "citation": "24 I&N Dec. 747 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3634.pdf"
+    },
+    {
+      "decision_id": 3633,
+      "case_name": "ROSENBERG",
+      "citation": "24 I&N Dec. 744 (BIA 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3633.pdf"
+    },
+    {
+      "decision_id": 3632,
+      "case_name": "COMPEAN, BANGALY & J-E-C-",
+      "citation": "24 I&N Dec. 710 (A.G. 2009)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3632.pdf"
+    },
+    {
+      "decision_id": 3631,
+      "case_name": "SILVA-TREVINO",
+      "citation": "24 I&N Dec. 687 (A.G. 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3631.pdf"
+    },
+    {
+      "decision_id": 3630,
+      "case_name": "F-P-R-",
+      "citation": "24 I&N Dec. 681 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3630.pdf"
+    },
+    {
+      "decision_id": 3629,
+      "case_name": "C-R-C-",
+      "citation": "24 I&N Dec. 677 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3629.pdf"
+    },
+    {
+      "decision_id": 3628,
+      "case_name": "M-R-A-",
+      "citation": "24 I&N Dec. 665 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3628.pdf"
+    },
+    {
+      "decision_id": 3627,
+      "case_name": "FEDERISO",
+      "citation": "24 I&N Dec. 661 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3627.pdf"
+    },
+    {
+      "decision_id": 3626,
+      "case_name": "ARMENDAREZ",
+      "citation": "24 I&N Dec. 646 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3626.pdf"
+    },
+    {
+      "decision_id": 3625,
+      "case_name": "M-F-W- & L-G-",
+      "citation": "24 I&N Dec. 633 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3625.pdf"
+    },
+    {
+      "decision_id": 3624,
+      "case_name": "R-A-",
+      "citation": "24 I&N Dec. 629 (A.G. 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3624.pdf"
+    },
+    {
+      "decision_id": 3623,
+      "case_name": "GUADARRAMA",
+      "citation": "24 I&N Dec. 625 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3623.pdf"
+    },
+    {
+      "decision_id": 3622,
+      "case_name": "A-T-",
+      "citation": "24 I&N Dec. 617 (A.G. 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3622.pdf"
+    },
+    {
+      "decision_id": 3621,
+      "case_name": "NWOZUZU",
+      "citation": "24 I&N Dec. 609 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3621.pdf"
+    },
+    {
+      "decision_id": 3620,
+      "case_name": "SAYSANA",
+      "citation": "24 I&N Dec. 602 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3620.pdf"
+    },
+    {
+      "decision_id": 3619,
+      "case_name": "RAMIREZ-VARGAS",
+      "citation": "24 I&N Dec. 599 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3619.pdf"
+    },
+    {
+      "decision_id": 3618,
+      "case_name": "E-A-G-",
+      "citation": "24 I&N Dec. 591 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3618.pdf"
+    },
+    {
+      "decision_id": 3617,
+      "case_name": "S-E-G-",
+      "citation": "24 I&N Dec. 579 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3617.pdf"
+    },
+    {
+      "decision_id": 3616,
+      "case_name": "ROTIMI",
+      "citation": "24 I&N Dec. 567 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3616.pdf"
+    },
+    {
+      "decision_id": 3615,
+      "case_name": "EAC, INC",
+      "citation": "24 I&N Dec. 563 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3615(accred).pdf"
+    },
+    {
+      "decision_id": 3614,
+      "case_name": "EAC, INC",
+      "citation": "24 I&N Dec. 556 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3614(recog).pdf"
+    },
+    {
+      "decision_id": 3613,
+      "case_name": "GONZALEZ-ZOQUIAPAN",
+      "citation": "24 I&N Dec. 549 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3613.pdf"
+    },
+    {
+      "decision_id": 3612,
+      "case_name": "HINES",
+      "citation": "24 I&N Dec. 544 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3612.pdf"
+    },
+    {
+      "decision_id": 3611,
+      "case_name": "J-S-",
+      "citation": "24 I&N Dec. 520 (A.G. 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3611.pdf"
+    },
+    {
+      "decision_id": 3610,
+      "case_name": "VELAZQUEZ-HERRERA",
+      "citation": "24 I&N Dec. 503 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3610.pdf"
+    },
+    {
+      "decision_id": 3609,
+      "case_name": "V-K-",
+      "citation": "24 I&N Dec. 500 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3609.pdf"
+    },
+    {
+      "decision_id": 3608,
+      "case_name": "A-S-B-",
+      "citation": "24 I&N Dec. 493 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3608.pdf"
+    },
+    {
+      "decision_id": 3607,
+      "case_name": "RIVERA-VALENCIA",
+      "citation": "24 I&N Dec. 484 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3607.pdf"
+    },
+    {
+      "decision_id": 3606,
+      "case_name": "KODWO",
+      "citation": "24 I&N Dec. 479 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3606.pdf"
+    },
+    {
+      "decision_id": 3605,
+      "case_name": "S-K-",
+      "citation": "24 I&N Dec. 475 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3605.pdf"
+    },
+    {
+      "decision_id": 3604,
+      "case_name": "GONZALEZ-MURO",
+      "citation": "24 I&N Dec. 472 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3604.pdf"
+    },
+    {
+      "decision_id": 3603,
+      "case_name": "BAIRES",
+      "citation": "24 I&N Dec. 467 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3603.pdf"
+    },
+    {
+      "decision_id": 3602,
+      "case_name": "S-A-K- and H-A-H-",
+      "citation": "24 I&N Dec. 464 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3602.pdf"
+    },
+    {
+      "decision_id": 3601,
+      "case_name": "CABRERA",
+      "citation": "24 I&N Dec. 459 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3601.pdf"
+    },
+    {
+      "decision_id": 3600,
+      "case_name": "ARUNA",
+      "citation": "24 I&N Dec. 452 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3600.pdf"
+    },
+    {
+      "decision_id": 3599,
+      "case_name": "D-I-M-",
+      "citation": "24 I&N Dec. 448 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3599.pdf"
+    },
+    {
+      "decision_id": 3598,
+      "case_name": "KELLY",
+      "citation": "24 I&N Dec. 446 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3598.pdf"
+    },
+    {
+      "decision_id": 3597,
+      "case_name": "ANIFOWOSHE",
+      "citation": "24 I&N Dec. 442 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3597.pdf"
+    },
+    {
+      "decision_id": 3596,
+      "case_name": "GARCIA-MADRUGA",
+      "citation": "24 I&N Dec. 436 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3596.pdf"
+    },
+    {
+      "decision_id": 3595,
+      "case_name": "I-S- & C-S-",
+      "citation": "24 I&N Dec. 432 (BIA 2008)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3595.pdf"
+    },
+    {
+      "decision_id": 3594,
+      "case_name": "MARTINEZ-ZAPATA",
+      "citation": "24 I&N Dec. 424 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3594.pdf"
+    },
+    {
+      "decision_id": 3593,
+      "case_name": "THOMAS",
+      "citation": "24 I&N Dec. 416 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3593.pdf"
+    },
+    {
+      "decision_id": 3592,
+      "case_name": "CARACHURI-ROSENDO",
+      "citation": "24 I&N Dec. 382 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3592.pdf"
+    },
+    {
+      "decision_id": 3591,
+      "case_name": "LEMUS",
+      "citation": "24 I&N Dec. 373 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3591.pdf"
+    },
+    {
+      "decision_id": 3590,
+      "case_name": "BRIONES",
+      "citation": "24 I&N Dec. 355 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3590.pdf"
+    },
+    {
+      "decision_id": 3589,
+      "case_name": "C-W-L-",
+      "citation": "24 I&N Dec. 346 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3589.pdf"
+    },
+    {
+      "decision_id": 3588,
+      "case_name": "N-A-M-",
+      "citation": "24 I&N Dec. 336 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3588.pdf"
+    },
+    {
+      "decision_id": 3587,
+      "case_name": "SINGH",
+      "citation": "24 I&N Dec. 331 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3587.pdf"
+    },
+    {
+      "decision_id": 3586,
+      "case_name": "S-I-K-",
+      "citation": "24 I&N Dec. 324 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3586.pdf"
+    },
+    {
+      "decision_id": 3585,
+      "case_name": "BABAISAKOV",
+      "citation": "24 I&N Dec. 306 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3585.pdf"
+    },
+    {
+      "decision_id": 3584,
+      "case_name": "A-T-",
+      "citation": "24 I&N Dec. 296 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3584.pdf"
+    },
+    {
+      "decision_id": 3583,
+      "case_name": "JEAN-JOSEPH",
+      "citation": "24 I&N Dec. 294 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3583.pdf"
+    },
+    {
+      "decision_id": 3582,
+      "case_name": "KRIVONOS",
+      "citation": "24 I&N Dec. 292 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3582.pdf"
+    },
+    {
+      "decision_id": 3581,
+      "case_name": "S-K-",
+      "citation": "24 I&N Dec. 289 (A.G. 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3581.pdf"
+    },
+    {
+      "decision_id": 3580,
+      "case_name": "SHAH",
+      "citation": "24 I&N Dec. 282 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3580.pdf"
+    },
+    {
+      "decision_id": 3579,
+      "case_name": "A-K-",
+      "citation": "24 I&N Dec. 275 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3579.pdf"
+    },
+    {
+      "decision_id": 3578,
+      "case_name": "CHAVEZ",
+      "citation": "24 I&N Dec. 272 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3578.pdf"
+    },
+    {
+      "decision_id": 3577,
+      "case_name": "JARA RIERO AND JARA ESPINOL",
+      "citation": "24 I&N Dec. 267 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3577.pdf"
+    },
+    {
+      "decision_id": 3576,
+      "case_name": "J-Y-C-",
+      "citation": "24 I&N Dec. 260 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3576.pdf"
+    },
+    {
+      "decision_id": 3575,
+      "case_name": "S-Y-G-",
+      "citation": "24 I&N Dec. 247 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3575.pdf"
+    },
+    {
+      "decision_id": 3574,
+      "case_name": "SOLON",
+      "citation": "24 I&N Dec. 239 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3574.pdf"
+    },
+    {
+      "decision_id": 3573,
+      "case_name": "SEJAS",
+      "citation": "24 I&N Dec. 236 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3573.pdf"
+    },
+    {
+      "decision_id": 3572,
+      "case_name": "ESCOBAR",
+      "citation": "24 I&N Dec. 231 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3572.pdf"
+    },
+    {
+      "decision_id": 3571,
+      "case_name": "R- D-",
+      "citation": "24 I&N Dec. 221 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3571.pdf"
+    },
+    {
+      "decision_id": 3570,
+      "case_name": "GONZALEZ-SILVA",
+      "citation": "24 I&N Dec. 218 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3570.pdf"
+    },
+    {
+      "decision_id": 3569,
+      "case_name": "J-B-N- & S-M-",
+      "citation": "24 I&N Dec. 208 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3569.pdf"
+    },
+    {
+      "decision_id": 3568,
+      "case_name": "ABOSI",
+      "citation": "24 I&N Dec. 204 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3568.pdf"
+    },
+    {
+      "decision_id": 3567,
+      "case_name": "J-H-S-",
+      "citation": "24 I&N Dec. 196 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3567.pdf"
+    },
+    {
+      "decision_id": 3566,
+      "case_name": "J-W-S-",
+      "citation": "24 I&N Dec. 185 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3566.pdf"
+    },
+    {
+      "decision_id": 3565,
+      "case_name": "GARCIA",
+      "citation": "24 I&N Dec. 179 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3565.pdf"
+    },
+    {
+      "decision_id": 3564,
+      "case_name": "T-Z-",
+      "citation": "24 I&N Dec. 163 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3564.pdf"
+    },
+    {
+      "decision_id": 3563,
+      "case_name": "Y-L-",
+      "citation": "24 I&N Dec. 151 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3563.pdf"
+    },
+    {
+      "decision_id": 3562,
+      "case_name": "TOBAR-LOBO",
+      "citation": "24 I&N Dec. 143 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3562.pdf"
+    },
+    {
+      "decision_id": 3561,
+      "case_name": "M-D-",
+      "citation": "24 I&N Dec. 138 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3561.pdf"
+    },
+    {
+      "decision_id": 3560,
+      "case_name": "K-R-Y- and K-C-S-",
+      "citation": "24 I&N Dec. 133 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3560.pdf"
+    },
+    {
+      "decision_id": 3559,
+      "case_name": "KOCHLANI",
+      "citation": "24 I&N Dec. 128 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3559.pdf"
+    },
+    {
+      "decision_id": 3558,
+      "case_name": "KOTLIAR",
+      "citation": "24 I&N Dec. 124 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3558.pdf"
+    },
+    {
+      "decision_id": 3557,
+      "case_name": "W-C-B-",
+      "citation": "24 I&N Dec. 118 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3557.pdf"
+    },
+    {
+      "decision_id": 3556,
+      "case_name": "GERTSENSHTEYN",
+      "citation": "24 I&N Dec. 111 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3556.pdf"
+    },
+    {
+      "decision_id": 3555,
+      "case_name": "ACOSTA HIDALGO",
+      "citation": "24 I&N Dec. 103 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3555.pdf"
+    },
+    {
+      "decision_id": 3554,
+      "case_name": "BARRIENTOS",
+      "citation": "24 I&N Dec. 100 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3554.pdf"
+    },
+    {
+      "decision_id": 3553,
+      "case_name": "TEJWANI",
+      "citation": "24 I&N Dec. 97 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3553.pdf"
+    },
+    {
+      "decision_id": 3552,
+      "case_name": "ZMIJEWSKA",
+      "citation": "24 I&N Dec. 87 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3552.pdf"
+    },
+    {
+      "decision_id": 3551,
+      "case_name": "AVILA-PEREZ",
+      "citation": "24 I&N Dec. 78 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3551.pdf"
+    },
+    {
+      "decision_id": 3550,
+      "case_name": "A-M-E & J-G-U-",
+      "citation": "24 I&N Dec. 69 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3550.pdf"
+    },
+    {
+      "decision_id": 3549,
+      "case_name": "MONCADA",
+      "citation": "24 I&N Dec. 62 (BIA 2007)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3549.pdf"
+    },
+    {
+      "decision_id": 3548,
+      "case_name": "O-S-G-",
+      "citation": "24 I&N Dec. 56 (BIA 2006)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3548.pdf"
+    },
+    {
+      "decision_id": 3547,
+      "case_name": "TRUONG",
+      "citation": "24 I&N Dec. 52 (BIA 2006)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3547.pdf"
+    },
+    {
+      "decision_id": 3546,
+      "case_name": "DIAZ-RUACHO",
+      "citation": "24 I&N Dec. 47 (BIA 2006)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3546.pdf"
+    },
+    {
+      "decision_id": 3545,
+      "case_name": "S-B-",
+      "citation": "24 I&N Dec. 42 (BIA 2006)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3545.pdf"
+    },
+    {
+      "decision_id": 3544,
+      "case_name": "GUERRA",
+      "citation": "24 I&N Dec. 37 (BIA 2006)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3544.pdf"
+    },
+    {
+      "decision_id": 3543,
+      "case_name": "JURADO",
+      "citation": "24 I&N Dec. 29 (BIA 2006)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3543.pdf"
+    },
+    {
+      "decision_id": 3542,
+      "case_name": "ROBLES",
+      "citation": "24 I&N Dec. 22 (BIA 2006)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3542.pdf"
+    },
+    {
+      "decision_id": 3541,
+      "case_name": "S-L-L-",
+      "citation": "24 I&N Dec. 1 (BIA 2006)",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol24/3541.pdf"
+    }
+  ],
+  "deletions": [],
+  "modifications": []
+}

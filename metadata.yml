@@ -1,0 +1,70 @@
+title: EOIR Immigration Decisions
+description_html: >
+  DOJ Executive Office for Immigration Review — BIA/AG precedent decisions and
+  OCAHO published decisions, scraped daily from
+  <a href="https://www.justice.gov/eoir/ag-bia-decisions">justice.gov/eoir</a>.
+license: Public Domain (U.S. Government Work)
+license_url: https://www.justice.gov/accessibility/eoir-privacy-and-terms-of-use
+source: DOJ Executive Office for Immigration Review
+source_url: https://www.justice.gov/eoir/ag-bia-decisions
+
+databases:
+  eoir_decisions:
+    tables:
+      bia_ag_decisions:
+        title: BIA/AG Precedent Decisions
+        description: >
+          Board of Immigration Appeals and Attorney General immigration precedent
+          decisions, Volumes 24–29 (ID #3541–present). Each row is one decision;
+          headnote field contains the official holding summary.
+        sort_desc: decision_id
+        searchmode: raw
+        columns:
+          url:                    PDF link (unique key)
+          decision_id:            Numeric decision ID (e.g. 4203)
+          case_name:              Respondent / case name
+          citation_full:          Full citation (e.g. "29 I&N Dec 680 (BIA 2026)")
+          citation_volume:        I&N Dec volume number
+          citation_page:          Page within volume
+          citation_body:          Raw body abbreviation (BIA, A.G, AAO, DIR)
+          citation_year:          Year of decision
+          deciding_body:          Normalized body (BIA / Attorney General / AAO / Director)
+          is_attorney_general:    True if decided by the Attorney General
+          is_aao:                 True if decided by the AAO
+          is_director:            True if decided by the Director
+          headnote:               Official holding summary (from listing page)
+          headnote_word_count:    Word count of headnote
+          full_text:              Full PDF text (empty unless DOWNLOAD_PDFS=True)
+          text_word_count:        Word count of full text
+          pdf_url:                Direct PDF download URL
+          pdf_media_id:           DOJ media file identifier
+          source_volume_name:     e.g. "Volume 29"
+          source_volume_number:   Integer volume number
+          scraped_date:           Date this record was last scraped
+
+      ocaho_decisions:
+        title: OCAHO Published Decisions
+        description: >
+          Office of the Chief Administrative Hearing Officer decisions, Looseleaf
+          Volumes 14–22. Cases with multiple decisions appear as separate rows
+          (sub-decisions indicated by reference_sub_letter a, b, c…).
+        sort_desc: reference_base
+        searchmode: raw
+        columns:
+          url:                    PDF link (unique key)
+          case_name:              Party names (e.g. "United States v. Acme Corp")
+          case_number:            OCAHO docket number (e.g. 2025A00038)
+          decision_date:          Date of this decision
+          reference_number:       OCAHO reference number (e.g. 1671, 1671a)
+          reference_base:         Numeric base of reference (1671)
+          reference_sub_letter:   Sub-letter for subsequent decisions in same case
+          is_sub_decision:        True if this is a follow-on decision in the same case
+          is_caho_decision:       True if decided by a Chief Administrative Hearing Officer
+          case_type_code:         A / B / C
+          case_type_description:  Employer Sanctions / Employee Discrimination / Document Fraud
+          year_from_case_number:  Year the case was filed
+          pdf_url:                Direct PDF download URL
+          full_text:              Full PDF text (empty unless DOWNLOAD_PDFS=True)
+          source_volume_name:     e.g. "Looseleaf Volume 22"
+          source_volume_number:   Integer volume number
+          scraped_date:           Date this record was last scraped

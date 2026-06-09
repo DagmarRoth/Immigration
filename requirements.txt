@@ -1,0 +1,5 @@
+beautifulsoup4>=4.12
+requests>=2.31
+sqlite-utils>=3.35
+datasette>=0.65
+datasette-vega>=0.6
