@@ -1,4 +1,4 @@
-name: Daily Scrape + Deploy to Vercel
+name: Daily Scrape + Publish SQLite
 
 # Runs every day at 8am ET (noon UTC)
 # Also runs on every push to main (for testing), and can be triggered manually
@@ -40,8 +40,6 @@ jobs:
         run: sudo apt-get install -y poppler-utils
 
       # ── 3. Run scraper ────────────────────────────────────────────────────
-      # Convert notebook → Python script, then execute it directly.
-      # This avoids needing a Jupyter kernel and is faster in CI.
       - name: Convert notebook to script
         run: |
           jupyter nbconvert --to script eoir_decisions_scraper.ipynb \
@@ -53,16 +51,21 @@ jobs:
       - name: Run scraper
         run: python3 eoir_decisions_scraper.py
 
-      # ── 4. Commit updated JSON data back to the repo ──────────────────────
+      # ── 4. Build SQLite database ──────────────────────────────────────────
+      - name: Build SQLite database
+        run: python3 json_to_sqlite.py
+
+      # ── 5. Commit updated data back to the repo ───────────────────────────
+      # Commits JSON + SQLite so the repo always has the latest data.
+      # The SQLite file powers the datasette-lite public URL (no server needed).
       - name: Commit updated data files
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/bia_ag_decisions.json \
-                  data/ocaho_decisions.json
-          # changelogs and error_logs are optional but useful to track
+                  data/ocaho_decisions.json \
+                  eoir_decisions.db
           git add data/changelogs/ data/error_logs/ 2>/dev/null || true
-          # Only commit if there are actual changes
           if git diff --staged --quiet; then
             echo "No data changes today — skipping commit."
           else
@@ -70,28 +73,8 @@ jobs:
             git push
           fi
 
-      # ── 5. Build SQLite database ──────────────────────────────────────────
-      - name: Build SQLite database
-        run: python3 json_to_sqlite.py
-
-      # ── 6. Deploy to Vercel via datasette publish ─────────────────────────
-      # Requires VERCEL_TOKEN secret set in repo Settings → Secrets.
-      # Get your token at: https://vercel.com/account/tokens
-      - name: Install Vercel CLI
-        run: npm install -g vercel
-
-      - name: Install datasette-publish-vercel
-        run: pip install datasette-publish-vercel
-
-      - name: Deploy to Vercel
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      # ── 6. Print public datasette-lite URL ───────────────────────────────
+      - name: Print datasette-lite URL
         run: |
-          datasette publish vercel eoir_decisions.db \
-            --project=eoir-decisions \
-            --metadata=metadata.yml \
-            --token=$VERCEL_TOKEN \
-            --install=datasette-vega \
-            --setting default_page_size 50 \
-            --setting max_returned_rows 2000 \
-            --setting sql_time_limit_ms 5000
+          echo "Public URL (no server required — runs in browser):"
+          echo "https://lite.datasette.io/?url=https://raw.githubusercontent.com/DagmarRoth/Immigration/main/eoir_decisions.db"
