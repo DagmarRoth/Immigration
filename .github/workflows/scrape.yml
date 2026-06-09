@@ -45,7 +45,8 @@ jobs:
       - name: Convert notebook to script
         run: |
           jupyter nbconvert --to script eoir_decisions_scraper.ipynb \
-            --output eoir_decisions_scraper
+            --output eoir_decisions_scraper --output-dir .
+          ls -la eoir_decisions_scraper.py
 
       - name: Run scraper
         run: python3 eoir_decisions_scraper.py
