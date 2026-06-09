@@ -77,6 +77,9 @@ jobs:
       # ── 6. Deploy to Vercel via datasette publish ─────────────────────────
       # Requires VERCEL_TOKEN secret set in repo Settings → Secrets.
       # Get your token at: https://vercel.com/account/tokens
+      - name: Install Vercel CLI
+        run: npm install -g vercel
+
       - name: Install datasette-publish-vercel
         run: pip install datasette-publish-vercel
 
