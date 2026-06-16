@@ -1,6 +1,31 @@
 {
   "date": "2026-06-16",
-  "additions": [],
+  "additions": [
+    {
+      "reference_number": "1699a",
+      "case_name": "United States v. Indian Twist, Inc.",
+      "decision_date": "06/02/2026",
+      "url": "https://www.justice.gov/eoir/media/1445976/dl?inline"
+    },
+    {
+      "reference_number": "1709",
+      "case_name": "Zaji Zajradhara v. Asia Pacific Holdings, Inc.",
+      "decision_date": "06/03/2026",
+      "url": "https://www.justice.gov/eoir/media/1445981/dl?inline"
+    },
+    {
+      "reference_number": "1710",
+      "case_name": "United States v. The Little Cottage Caregivers, LLC",
+      "decision_date": "06/03/2026",
+      "url": "https://www.justice.gov/eoir/media/1445986/dl?inline"
+    },
+    {
+      "reference_number": "1711",
+      "case_name": "United States v. Jorge Mata, LLC, d/b/a El Sombrero",
+      "decision_date": "06/04/2026",
+      "url": "https://www.justice.gov/eoir/media/1445991/dl?inline"
+    }
+  ],
   "deletions": [],
   "modifications": [
     {
