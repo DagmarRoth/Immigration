@@ -35,10 +35,6 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt jupyter nbconvert
 
-      # pdftotext (poppler) — only needed when DOWNLOAD_PDFS=True
-      - name: Install poppler-utils (pdftotext)
-        run: sudo apt-get install -y poppler-utils
-
       # ── 3. Run scraper ────────────────────────────────────────────────────
       - name: Convert notebook to script
         run: |
