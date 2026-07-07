@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-07",
+  "errors": [
+    {
+      "volume": "Looseleaf Volume 18",
+      "url": "https://www.justice.gov/eoir/listing-volume-18-decisions",
+      "error_type": "ReadTimeout",
+      "message": "HTTPSConnectionPool(host='www.justice.gov', port=443): Read timed out. (read timeout=30)",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 742, in send",
+        "    raise ReadTimeout(e, request=request)",
+        "requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.justice.gov', port=443): Read timed out. (read timeout=30)"
+      ]
+    }
+  ]
+}
