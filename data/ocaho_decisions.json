@@ -5404,7 +5404,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-08-07"
+    "scraped_date": "2026-08-08"
   },
   {
     "url": "https://www.justice.gov/d9/2024-12/1625.pdf",
@@ -11073,7 +11073,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-08-07"
+    "scraped_date": "2026-08-08"
   },
   {
     "url": "https://www.justice.gov/eoir/media/1412346/dl?inline",
@@ -15054,6 +15054,33 @@
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
     "scraped_date": "2026-06-09"
+  },
+  {
+    "url": "https://www.justice.gov/eoir/media/1456721/dl?inline",
+    "content_hash": "c70697cf9fd74e18b3eb0a5881579687",
+    "case_name": "United States v. Zarco Hotels Incorporated",
+    "case_number": "2024A00015",
+    "decision_date": "07/24/2026",
+    "decision_date_iso": "2026-07-24",
+    "reference_number": "1518n",
+    "reference_base": 1518,
+    "reference_sub_letter": "n",
+    "is_sub_decision": true,
+    "is_caho_decision": false,
+    "pdf_url": "https://www.justice.gov/eoir/media/1456721/dl?inline",
+    "pdf_media_id": "1456721",
+    "full_text": "",
+    "text_word_count": 0,
+    "case_type_code": "A",
+    "case_type_description": "Employer Sanctions (I-9 Violations)",
+    "year_from_case_number": 2024,
+    "source_volume_name": "Looseleaf Volume 18",
+    "source_volume_url": "https://www.justice.gov/eoir/listing-volume-18-decisions",
+    "source_volume_number": 18,
+    "decision_type": "OCAHO",
+    "pdf_download_attempted": false,
+    "pdf_text_extracted": false,
+    "scraped_date": "2026-08-08"
   },
   {
     "url": "https://www.justice.gov/d9/2024-01/1517.pdf",
