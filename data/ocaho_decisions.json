@@ -5620,7 +5620,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-09-07"
+    "scraped_date": "2026-09-08"
   },
   {
     "url": "https://www.justice.gov/d9/2024-12/1625.pdf",
@@ -8926,6 +8926,33 @@
     "scraped_date": "2026-06-09"
   },
   {
+    "url": "https://www.justice.gov/eoir/media/1460431/dl?inline",
+    "content_hash": "9e1809eed842117b97b3a717846662f3",
+    "case_name": "US Tech Workers et al. v. Boston Consulting Group (BCG), Inc.",
+    "case_number": "2024B00040",
+    "decision_date": "08/12/2026",
+    "decision_date_iso": "2026-08-12",
+    "reference_number": "1580d",
+    "reference_base": 1580,
+    "reference_sub_letter": "d",
+    "is_sub_decision": true,
+    "is_caho_decision": false,
+    "pdf_url": "https://www.justice.gov/eoir/media/1460431/dl?inline",
+    "pdf_media_id": "1460431",
+    "full_text": "",
+    "text_word_count": 0,
+    "case_type_code": "B",
+    "case_type_description": "Employee Discrimination (INA \u00a7 274B)",
+    "year_from_case_number": 2024,
+    "source_volume_name": "Looseleaf Volume 20",
+    "source_volume_url": "https://www.justice.gov/eoir/listing-volume-20-decisions",
+    "source_volume_number": 20,
+    "decision_type": "OCAHO",
+    "pdf_download_attempted": false,
+    "pdf_text_extracted": false,
+    "scraped_date": "2026-09-08"
+  },
+  {
     "url": "https://www.justice.gov/d9/2024-06/1579.pdf",
     "content_hash": "e283185e28611f43236b6d93f42649a9",
     "case_name": "US Tech Workers et al. v. Relativity",
@@ -11316,7 +11343,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-09-07"
+    "scraped_date": "2026-09-08"
   },
   {
     "url": "https://www.justice.gov/eoir/media/1412346/dl?inline",
