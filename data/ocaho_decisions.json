@@ -81,6 +81,33 @@
     "scraped_date": "2026-08-05"
   },
   {
+    "url": "https://www.justice.gov/eoir/media/1461026/dl?inline",
+    "content_hash": "2cec98d104732324b889f403d912f76c",
+    "case_name": "United States v. Min Buffet Inc., d/b/a Fuji Buffet and Grill",
+    "case_number": "2026A00035",
+    "decision_date": "09/01/2026",
+    "decision_date_iso": "2026-09-01",
+    "reference_number": "1719b",
+    "reference_base": 1719,
+    "reference_sub_letter": "b",
+    "is_sub_decision": true,
+    "is_caho_decision": false,
+    "pdf_url": "https://www.justice.gov/eoir/media/1461026/dl?inline",
+    "pdf_media_id": "1461026",
+    "full_text": "",
+    "text_word_count": 0,
+    "case_type_code": "A",
+    "case_type_description": "Employer Sanctions (I-9 Violations)",
+    "year_from_case_number": 2026,
+    "source_volume_name": "Looseleaf Volume 22",
+    "source_volume_url": "https://www.justice.gov/eoir/listing-volume-22-decisions",
+    "source_volume_number": 22,
+    "decision_type": "OCAHO",
+    "pdf_download_attempted": false,
+    "pdf_text_extracted": false,
+    "scraped_date": "2026-09-12"
+  },
+  {
     "url": "https://www.justice.gov/eoir/media/1451271/dl?inline",
     "content_hash": "50fbec6a994c09bab2eccb4a0fad236d",
     "case_name": "United States v. Cloudera, Inc.",
@@ -5620,7 +5647,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-09-11"
+    "scraped_date": "2026-09-12"
   },
   {
     "url": "https://www.justice.gov/d9/2024-12/1625.pdf",
@@ -11343,7 +11370,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-09-11"
+    "scraped_date": "2026-09-12"
   },
   {
     "url": "https://www.justice.gov/eoir/media/1412346/dl?inline",
@@ -15432,6 +15459,33 @@
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
     "scraped_date": "2026-08-08"
+  },
+  {
+    "url": "https://www.justice.gov/eoir/media/1461041/dl?inline",
+    "content_hash": "e1b655b0cc42de90844fc032181c6385",
+    "case_name": "United States v. Zarco Hotels Incorporated",
+    "case_number": "2024A00015",
+    "decision_date": "09/03/2026",
+    "decision_date_iso": "2026-09-03",
+    "reference_number": "1518o",
+    "reference_base": 1518,
+    "reference_sub_letter": "o",
+    "is_sub_decision": true,
+    "is_caho_decision": false,
+    "pdf_url": "https://www.justice.gov/eoir/media/1461041/dl?inline",
+    "pdf_media_id": "1461041",
+    "full_text": "",
+    "text_word_count": 0,
+    "case_type_code": "A",
+    "case_type_description": "Employer Sanctions (I-9 Violations)",
+    "year_from_case_number": 2024,
+    "source_volume_name": "Looseleaf Volume 18",
+    "source_volume_url": "https://www.justice.gov/eoir/listing-volume-18-decisions",
+    "source_volume_number": 18,
+    "decision_type": "OCAHO",
+    "pdf_download_attempted": false,
+    "pdf_text_extracted": false,
+    "scraped_date": "2026-09-12"
   },
   {
     "url": "https://www.justice.gov/d9/2024-01/1517.pdf",
