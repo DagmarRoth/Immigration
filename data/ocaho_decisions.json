@@ -806,6 +806,33 @@
     "scraped_date": "2026-09-05"
   },
   {
+    "url": "https://www.justice.gov/eoir/media/1461791/dl?inline",
+    "content_hash": "3da16952d9c965d199f51ea2333ade6d",
+    "case_name": "Ravi Sharma v. Cisco Systems, Inc.",
+    "case_number": "2026B00017",
+    "decision_date": "09/15/2026",
+    "decision_date_iso": "2026-09-15",
+    "reference_number": "1705c",
+    "reference_base": 1705,
+    "reference_sub_letter": "c",
+    "is_sub_decision": true,
+    "is_caho_decision": false,
+    "pdf_url": "https://www.justice.gov/eoir/media/1461791/dl?inline",
+    "pdf_media_id": "1461791",
+    "full_text": "",
+    "text_word_count": 0,
+    "case_type_code": "B",
+    "case_type_description": "Employee Discrimination (INA \u00a7 274B)",
+    "year_from_case_number": 2026,
+    "source_volume_name": "Looseleaf Volume 22",
+    "source_volume_url": "https://www.justice.gov/eoir/listing-volume-22-decisions",
+    "source_volume_number": 22,
+    "decision_type": "OCAHO",
+    "pdf_download_attempted": false,
+    "pdf_text_extracted": false,
+    "scraped_date": "2026-09-18"
+  },
+  {
     "url": "https://www.justice.gov/eoir/media/1442781/dl?inline",
     "content_hash": "aadbbcccc94fb3782afe861687810155",
     "case_name": "United States v. Cheetah Clean Holding Company, LLC",
@@ -5647,7 +5674,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-09-17"
+    "scraped_date": "2026-09-18"
   },
   {
     "url": "https://www.justice.gov/d9/2024-12/1625.pdf",
@@ -11370,7 +11397,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-09-17"
+    "scraped_date": "2026-09-18"
   },
   {
     "url": "https://www.justice.gov/eoir/media/1412346/dl?inline",
