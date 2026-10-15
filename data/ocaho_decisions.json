@@ -162,6 +162,33 @@
     "scraped_date": "2026-08-05"
   },
   {
+    "url": "https://www.justice.gov/eoir/media/1459876/dl?inline",
+    "content_hash": "4d29a9fbcd8810319e05ed9903e6a418",
+    "case_name": "United States v. Cloudera, Inc.",
+    "case_number": "2026B00044",
+    "decision_date": "08/10/2026",
+    "decision_date_iso": "2026-08-10",
+    "reference_number": "1718b",
+    "reference_base": 1718,
+    "reference_sub_letter": "b",
+    "is_sub_decision": true,
+    "is_caho_decision": false,
+    "pdf_url": "https://www.justice.gov/eoir/media/1459876/dl?inline",
+    "pdf_media_id": "1459876",
+    "full_text": "",
+    "text_word_count": 0,
+    "case_type_code": "B",
+    "case_type_description": "Employee Discrimination (INA \u00a7 274B)",
+    "year_from_case_number": 2026,
+    "source_volume_name": "Looseleaf Volume 22",
+    "source_volume_url": "https://www.justice.gov/eoir/listing-volume-22-decisions",
+    "source_volume_number": 22,
+    "decision_type": "OCAHO",
+    "pdf_download_attempted": false,
+    "pdf_text_extracted": false,
+    "scraped_date": "2026-10-15"
+  },
+  {
     "url": "https://www.justice.gov/eoir/media/1449016/dl?inline",
     "content_hash": "a81eb45119f45e091909ad3f43f314e4",
     "case_name": "United States v. Hookah Plus Tobacco World, Inc.",
@@ -5701,7 +5728,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-10-14"
+    "scraped_date": "2026-10-15"
   },
   {
     "url": "https://www.justice.gov/d9/2024-12/1625.pdf",
@@ -11424,7 +11451,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-10-14"
+    "scraped_date": "2026-10-15"
   },
   {
     "url": "https://www.justice.gov/eoir/media/1412346/dl?inline",
