@@ -186,7 +186,34 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-10-23"
+    "scraped_date": "2026-10-24"
+  },
+  {
+    "url": "https://www.justice.gov/eoir/media/1468386/dl?inline",
+    "content_hash": "698d3aff10a10c708462c54436edc1c2",
+    "case_name": "United States v. Cloudera, Inc.",
+    "case_number": "2026B00044",
+    "decision_date": "10/08/2026",
+    "decision_date_iso": "2026-10-08",
+    "reference_number": "1718c",
+    "reference_base": 1718,
+    "reference_sub_letter": "c",
+    "is_sub_decision": true,
+    "is_caho_decision": false,
+    "pdf_url": "https://www.justice.gov/eoir/media/1468386/dl?inline",
+    "pdf_media_id": "1468386",
+    "full_text": "",
+    "text_word_count": 0,
+    "case_type_code": "B",
+    "case_type_description": "Employee Discrimination (INA \u00a7 274B)",
+    "year_from_case_number": 2026,
+    "source_volume_name": "Looseleaf Volume 22",
+    "source_volume_url": "https://www.justice.gov/eoir/listing-volume-22-decisions",
+    "source_volume_number": 22,
+    "decision_type": "OCAHO",
+    "pdf_download_attempted": false,
+    "pdf_text_extracted": false,
+    "scraped_date": "2026-10-24"
   },
   {
     "url": "https://www.justice.gov/eoir/media/1449016/dl?inline",
@@ -699,6 +726,33 @@
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
     "scraped_date": "2026-07-11"
+  },
+  {
+    "url": "https://www.justice.gov/eoir/media/1468391/dl?inline",
+    "content_hash": "83da93927a1c611ffc8dba188f490d77",
+    "case_name": "Christopher Lilles v. Micronesia Resort Inc.",
+    "case_number": "2025B00051",
+    "decision_date": "10/08/2026",
+    "decision_date_iso": "2026-10-08",
+    "reference_number": "1708b",
+    "reference_base": 1708,
+    "reference_sub_letter": "b",
+    "is_sub_decision": true,
+    "is_caho_decision": false,
+    "pdf_url": "https://www.justice.gov/eoir/media/1468391/dl?inline",
+    "pdf_media_id": "1468391",
+    "full_text": "",
+    "text_word_count": 0,
+    "case_type_code": "B",
+    "case_type_description": "Employee Discrimination (INA \u00a7 274B)",
+    "year_from_case_number": 2025,
+    "source_volume_name": "Looseleaf Volume 22",
+    "source_volume_url": "https://www.justice.gov/eoir/listing-volume-22-decisions",
+    "source_volume_number": 22,
+    "decision_type": "OCAHO",
+    "pdf_download_attempted": false,
+    "pdf_text_extracted": false,
+    "scraped_date": "2026-10-24"
   },
   {
     "url": "https://www.justice.gov/eoir/media/1443591/dl?inline",
@@ -5755,7 +5809,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-10-23"
+    "scraped_date": "2026-10-24"
   },
   {
     "url": "https://www.justice.gov/d9/2024-12/1625.pdf",
@@ -11478,7 +11532,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-10-23"
+    "scraped_date": "2026-10-24"
   },
   {
     "url": "https://www.justice.gov/eoir/media/1412346/dl?inline",
