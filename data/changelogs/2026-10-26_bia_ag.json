@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-26",
+  "additions": [
+    {
+      "decision_id": 3834,
+      "case_name": "MONTIEL",
+      "citation": "26 I&N Dec. 555 (BIA 2015)",
+      "url": "https://www.justice.gov/sites/default/files/eoir/pages/attachments/2015/04/17/3834.pdf"
+    }
+  ],
+  "deletions": [],
+  "modifications": [
+    {
+      "decision_id": 3819,
+      "case_name": "ST. FRANCIS CABRINI IMMIGRATION LAW CENTER",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3819.pdf",
+      "changes": {
+        "headnote": {
+          "from": "Where an organization is physically colocated or financially associated with, or otherwise attached to, a for-profit venture, the Board of Immigration Appeals will not approve an application for recognition unless it is confident that the organization will not be influenced, either explicitly or implicitly, by the pecuniary interests of the commercial affiliate.",
+          "to": "Where an organization is physically collocated or financially associated with, or otherwise attached to, a for-profit venture, the Board of Immigration Appeals will not approve an application for recognition unless it is confident that the organization will not be influenced, either explicitly or implicitly, by the pecuniary interests of the commercial affiliate."
+        }
+      }
+    },
+    {
+      "decision_id": 3779,
+      "case_name": "BUTT",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3779.pdf",
+      "changes": {
+        "headnote": {
+          "from": "(1) For purposes of establishing eligibility for adjustment of status under section 245(i) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1255(i) (2006), an alien seeking to be\"grandfathered\" must be the beneficiary of an application for labor certification that was \"approvable when filed.\" | (2) An alien will be presumed to be the beneficiary of a \"meritorious in fact\" labor certification if the application was \"properly filed\" and \"non-frivolous\" and if no apparent bars to approval of the labor certification existed at the time it was filed.",
+          "to": "(1) For purposes of establishing eligibility for adjustment of status under section 245(i) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1255(i) (2006), an alien seeking to be \"grandfathered\" must be the beneficiary of an application for labor certification that was \"approvable when filed.\" | (2) An alien will be presumed to be the beneficiary of a \"meritorious in fact\" labor certification if the application was \"properly filed\" and \"non-frivolous\" and if no apparent bars to approval of the labor certification existed at the time it was filed."
+        },
+        "headnote_word_count": {
+          "from": 88,
+          "to": 89
+        }
+      }
+    },
+    {
+      "decision_id": 3773,
+      "case_name": "VALENZUELA-FELIX",
+      "url": "https://www.justice.gov/eoir/vll/intdec/vol26/3773.pdf",
+      "changes": {
+        "headnote": {
+          "from": "When theDepartment ofHomeland Security paroles a returning lawful permanent resident for prosecution, it need not have all the evidence to sustain its burden of proving that the alien is an applicant for admission but may ordinarily rely on the results of a subsequent prosecution to meet that burden in later removal proceedings.",
+          "to": "When the Department of Homeland Security paroles a returning lawful permanent resident for prosecution, it need not have all the evidence to sustain its burden of proving that the alien is an applicant for admission but may ordinarily rely on the results of a subsequent prosecution to meet that burden in later removal proceedings."
+        },
+        "headnote_word_count": {
+          "from": 52,
+          "to": 54
+        }
+      }
+    }
+  ]
+}
