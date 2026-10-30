@@ -186,7 +186,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-10-29"
+    "scraped_date": "2026-10-30"
   },
   {
     "url": "https://www.justice.gov/eoir/media/1468386/dl?inline",
@@ -4354,6 +4354,33 @@
     "scraped_date": "2026-06-09"
   },
   {
+    "url": "https://www.justice.gov/eoir/media/1469541/dl?inline",
+    "content_hash": "39c098842fc34001bec3e7fded31059a",
+    "case_name": "Zaji Zajradhara v. ITS Corporation",
+    "case_number": "2025B00017",
+    "decision_date": "10/14/2026",
+    "decision_date_iso": "2026-10-14",
+    "reference_number": "1646c",
+    "reference_base": 1646,
+    "reference_sub_letter": "c",
+    "is_sub_decision": true,
+    "is_caho_decision": false,
+    "pdf_url": "https://www.justice.gov/eoir/media/1469541/dl?inline",
+    "pdf_media_id": "1469541",
+    "full_text": "",
+    "text_word_count": 0,
+    "case_type_code": "B",
+    "case_type_description": "Employee Discrimination (INA \u00a7 274B)",
+    "year_from_case_number": 2025,
+    "source_volume_name": "Looseleaf Volume 21",
+    "source_volume_url": "https://www.justice.gov/eoir/listing-volume-21-decisions",
+    "source_volume_number": 21,
+    "decision_type": "OCAHO",
+    "pdf_download_attempted": false,
+    "pdf_text_extracted": false,
+    "scraped_date": "2026-10-30"
+  },
+  {
     "url": "https://www.justice.gov/d9/2025-02/1645.pdf",
     "content_hash": "5cbe1868af2d2057681d8fa62de39f00",
     "case_name": "In re Investigation of: Stevens Transport, Inc.",
@@ -5292,10 +5319,11 @@
   },
   {
     "url": "https://www.justice.gov/d9/2025-01/1633.pdf",
-    "content_hash": "be3ce2224720f0055b10e896360a1b9c",
+    "content_hash": "9e58a125a0458193351b592915d07671",
     "case_name": "United States v. The Wall Company, LLC",
     "case_number": "2025A00016",
-    "decision_date": "01/13/202501/14/2025",
+    "decision_date": "01/13/2025",
+    "decision_date_iso": "2025-01-13",
     "reference_number": "1633",
     "reference_base": 1633,
     "reference_sub_letter": null,
@@ -5314,7 +5342,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-06-09"
+    "scraped_date": "2026-10-30"
   },
   {
     "url": "https://www.justice.gov/d9/2025-02/1633a.pdf",
@@ -5809,7 +5837,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-10-29"
+    "scraped_date": "2026-10-30"
   },
   {
     "url": "https://www.justice.gov/d9/2024-12/1625.pdf",
@@ -11532,7 +11560,7 @@
     "decision_type": "OCAHO",
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
-    "scraped_date": "2026-10-29"
+    "scraped_date": "2026-10-30"
   },
   {
     "url": "https://www.justice.gov/eoir/media/1412346/dl?inline",
@@ -12498,6 +12526,33 @@
     "pdf_download_attempted": false,
     "pdf_text_extracted": false,
     "scraped_date": "2026-06-09"
+  },
+  {
+    "url": "https://www.justice.gov/eoir/media/1469526/dl?inline",
+    "content_hash": "1d1cc8c673c722ca2ee297abfb0a9084",
+    "case_name": "United States v. TerraPower, LLC",
+    "case_number": "2024A00094",
+    "decision_date": "10/13/2026",
+    "decision_date_iso": "2026-10-13",
+    "reference_number": "1548i",
+    "reference_base": 1548,
+    "reference_sub_letter": "i",
+    "is_sub_decision": true,
+    "is_caho_decision": false,
+    "pdf_url": "https://www.justice.gov/eoir/media/1469526/dl?inline",
+    "pdf_media_id": "1469526",
+    "full_text": "",
+    "text_word_count": 0,
+    "case_type_code": "A",
+    "case_type_description": "Employer Sanctions (I-9 Violations)",
+    "year_from_case_number": 2024,
+    "source_volume_name": "Looseleaf Volume 19",
+    "source_volume_url": "https://www.justice.gov/eoir/listing-volume-19-decisions",
+    "source_volume_number": 19,
+    "decision_type": "OCAHO",
+    "pdf_download_attempted": false,
+    "pdf_text_extracted": false,
+    "scraped_date": "2026-10-30"
   },
   {
     "url": "https://www.justice.gov/d9/2024-04/1547.pdf",
